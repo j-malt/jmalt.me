@@ -1,0 +1,99 @@
+/*========== GENERAL/HOME =============*/
+body {
+    background-color: #1F1B20;
+    color: #FFF7E8; /*This color is called Cosmic Latte, haha*/
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.content {
+    margin: 3.5%;
+    padding: none;
+}
+
+.imp {
+    color: #FFE428;
+}
+
+hr {
+    width: 50%;
+    position: absolute;
+}
+
+#header {
+    color:#FFF7E8;
+    text-decoration: none;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+a {
+    color: #B2ABF2;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    
+}
+
+/*========== NAV =============*/
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding:0;
+    margin:0;
+    font-family: 'Space Mono', monospace;
+}
+
+.nav { 
+    border-bottom: 1px solid #FFF7E8;
+    padding-bottom: 1%;
+    width: 20%;
+}
+
+.nav-link {
+    color: #FFF7E8;
+    text-decoration: none;
+}
+
+.active {
+    text-decoration: none;
+    color: #B2ABF2;
+}
+
+
+
+
+
+/*========== RESUME =============*/
+
+.resume-section {
+    font-size: 90%;
+    margin-left: 2%;
+}
+
+.section-header {
+    font-family: 'Space Mono', monospace;
+    font-size: 150%;
+    color: #B2ABF2;
+}
+
+.res-imp {
+    font-size: 115%;
+    color: #FFE428;
+}
+
+/*========== PROJECTS =============*/
+
+.project-content {
+    margin-left: 2%;
+}
