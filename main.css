@@ -7,7 +7,7 @@ body {
 }
 
 .content {
-    margin: 3.5%;
+    margin: 3.5vw;
     padding: none;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 hr {
-    width: 50%;
+    width: 50vw;
     position: absolute;
 }
 
@@ -35,9 +35,14 @@ h1 {
 }
 
 img {
-    width: 20%;
-    height: 20%;
-    
+    max-width: 350px;
+    max-height: 350px;
+}
+
+@media only screen and (max-width: 600px) {
+    img {
+		height: 15vh;
+	}
 }
 
 /*========== NAV =============*/
@@ -56,8 +61,16 @@ li {
 
 .nav { 
     border-bottom: 1px solid #FFF7E8;
-    padding-bottom: 1%;
-    width: 20%;
+    padding-bottom: 1vw;
+    width: 20vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav { 
+        width: 20vw;
+        font-size: 1em;
+        width: 90vw;
+    }
 }
 
 .nav-link {
@@ -77,23 +90,35 @@ li {
 /*========== RESUME =============*/
 
 .resume-section {
-    font-size: 90%;
-    margin-left: 2%;
+    font-size: .9em;
+    margin-left: 2vw;
 }
 
 .section-header {
     font-family: 'Space Mono', monospace;
-    font-size: 150%;
+    font-size: 1.5em;
     color: #B2ABF2;
 }
 
 .res-imp {
-    font-size: 115%;
+    font-size: 1.15em;
     color: #FFE428;
 }
 
 /*========== PROJECTS =============*/
 
 .project-content {
-    margin-left: 2%;
+    margin-left: 2vw;
+}
+iframe {
+
+    width: 560px;
+    height: 315px;
+}
+
+@media only screen and (max-width: 600px) {
+    iframe {
+        width: 80vw;
+        height: 30vh;
+    }
 }
