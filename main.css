@@ -28,7 +28,20 @@ hr {
 
 a {
     color: #B2ABF2;
+    display:inline-block
 }
+
+.no-float-link {
+    display: inline;
+}
+
+a:hover {
+    -ms-transform: translateY(-1.5px);
+    -webkit-transform: translateY(-1.5px); 
+    transform: translateY(-1.5px);
+    transition-duration: 0.05s;
+}
+
 
 h1 {
     font-weight: 400;
