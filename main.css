@@ -1,6 +1,6 @@
 /*========== GENERAL/HOME =============*/
 body {
-    background-color: #1F1B20;
+    background-color: #17030e;
     color: #FFF7E8; /*This color is called Cosmic Latte, haha*/
     
     font-family: 'Courier New', Courier, monospace;
@@ -12,7 +12,7 @@ body {
 }
 
 .imp {
-    color: #FFE428;
+    color: #2BAB27;
 }
 
 hr {
@@ -27,8 +27,12 @@ hr {
 }
 
 a {
-    color: #B2ABF2;
+    color: #2BAB27;
     display:inline-block
+}
+
+.img-link {
+    color: transparent !important;
 }
 
 .no-float-link {
@@ -93,7 +97,7 @@ li {
 
 .active {
     text-decoration: none;
-    color: #B2ABF2;
+    color: #2BAB27;
 }
 
 
@@ -110,12 +114,12 @@ li {
 .section-header {
     font-family: 'Space Mono', monospace;
     font-size: 1.5em;
-    color: #B2ABF2;
+    color: #06a10b;
 }
 
 .res-imp {
     font-size: 1.15em;
-    color: #FFE428;
+    color: #2BAB27;
 }
 
 /*========== PROJECTS =============*/
