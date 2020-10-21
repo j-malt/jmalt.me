@@ -1,5 +1,13 @@
-from scales import *
 
+import json
+
+
+"""
+    This file is used to *generate* JSON files that contain a list of chords
+    Its pretty messy, but it works quite well. In the future I'd just like to add 
+    more chord type/extensions. Running it will generate a "chords.json" file in 
+    './data'.
+"""
 
 """
     For any given key, we are going to generate about 35 different chords (Think C, C6, C13, C11, C7#13, ...)

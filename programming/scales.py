@@ -1,7 +1,12 @@
 import os
 import json
 
-
+"""
+    This file is used to generate JSON files that contain scales.
+    In the future I would like to expand this to include 5, 6, and 8 note scales.
+    It's quite messy and in need of a refactor. Running it will generate a 'scale.json' 
+    file in './data'.
+"""
 
 notes = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"]
 enharm_1 = ["B#", "C#", "D", "D#", "E", "E#", "F#", "G", "G#", "A", "A#", "B"]
@@ -90,5 +95,5 @@ buildScales("Dorian", "H W H H H W H")
 buildScales("Phrygian", "H W W W H W W")
 buildScales("Lydian", "W H W W H W W")
 buildScales("Mixolydian", "W W H W W H W")
-#with open("./data/scales.json", 'a+') as f:
-#    json.dump(d, f, indent=4)
+with open("./data/scales.json", 'a+') as f:
+    json.dump(d, f, indent=4)
