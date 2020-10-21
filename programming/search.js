@@ -47,7 +47,7 @@ function searchEngine(searchString, searchData) {
     var val = collapseObject(searchData[item]);
     if (val.includes(searchString)) {
       result.push(searchData[item]);
-      if (result.length > 10) return false;
+      if (result.length >= 12) return false;
     }
   });
   return result;
