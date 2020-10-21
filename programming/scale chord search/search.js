@@ -4,12 +4,12 @@ var chords;
 
 $.ajax({
   async: false,
-  url: "../data/scales.json",
+  url: "./data/scales.json",
   success: (data) => (scales = data),
 });
 $.ajax({
   async: false,
-  url: "../data/chords.json",
+  url: "./data/chords.json",
   success: (data) => (chords = data),
 });
 
