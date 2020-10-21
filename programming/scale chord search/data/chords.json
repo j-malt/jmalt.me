@@ -1,0 +1,8690 @@
+[
+    {
+        "key_chord": "C",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "D6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "Ab5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "Ab",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "Gb5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "Gb",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "D6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "Gb5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "D6",
+            "F6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "D",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "Gb5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "D6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "A5",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "A",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "Ab5",
+            "Bb5",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "Ab",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "D6",
+            "Gb6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "D",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "G5",
+            "Bb5",
+            "D6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "G",
+            "Bb",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "G5",
+            "Bb5",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "G",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "G5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "G",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "G5",
+            "A5",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "G",
+            "A",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "C5",
+            "Eb5",
+            "G5",
+            "Bb5",
+            "D6",
+            "F6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "Eb",
+            "G",
+            "Bb",
+            "D",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "C5",
+            "F5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "F",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "C5",
+            "F5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "F",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "C5",
+            "D5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "D",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "G5",
+            "Bb5",
+            "Db6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "G",
+            "Bb",
+            "Db",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "C",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "C5",
+            "E5",
+            "Gb5",
+            "Bb5",
+            "Db6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "C",
+            "E",
+            "Gb",
+            "Bb",
+            "Db",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "Eb6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "A5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "A",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "G5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "G",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "Eb6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "G5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "Eb6",
+            "Gb6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "Eb",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "G5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "Eb6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "Bb5",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "Bb",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "A5",
+            "B5",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "A",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "Eb6",
+            "G6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "Eb",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "Ab5",
+            "B5",
+            "Eb6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "Ab",
+            "B",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "Ab5",
+            "B5",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "Ab",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "Ab5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "Ab",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "Ab5",
+            "Bb5",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "Ab",
+            "Bb",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "Db5",
+            "E5",
+            "Ab5",
+            "B5",
+            "Eb6",
+            "Gb6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "E",
+            "Ab",
+            "B",
+            "Eb",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "Db5",
+            "Gb5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "Gb",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "Db5",
+            "Gb5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "Gb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "Db5",
+            "Eb5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "Eb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "Ab5",
+            "B5",
+            "D6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "Ab",
+            "B",
+            "D",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Db",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "Db5",
+            "F5",
+            "G5",
+            "B5",
+            "D6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Db",
+            "F",
+            "G",
+            "B",
+            "D",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "E6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "Bb5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "Ab5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "Ab",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "E6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "Ab5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "E6",
+            "G6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "E",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "Ab5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "E6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "B5",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "Bb5",
+            "C5",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "Bb",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "E6",
+            "Ab6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "E",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "A5",
+            "C5",
+            "E6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "A",
+            "C",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "A5",
+            "C5",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "A5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "A",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "A5",
+            "B5",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "D5",
+            "F5",
+            "A5",
+            "C5",
+            "E6",
+            "G6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "F",
+            "A",
+            "C",
+            "E",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "D5",
+            "G5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "G",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "D5",
+            "G5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "G",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "D5",
+            "E5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "E",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "A5",
+            "C5",
+            "Eb6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "A",
+            "C",
+            "Eb",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "D",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "D5",
+            "Gb5",
+            "Ab5",
+            "C5",
+            "Eb6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "D",
+            "Gb",
+            "Ab",
+            "C",
+            "Eb",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "F6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "B5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "B",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "A5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "A",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "F6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "A5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "F6",
+            "Ab6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "F",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "A5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "F6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "C5",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "C",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "B5",
+            "Db5",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "B",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "F6",
+            "A6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "F",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "F6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "Bb5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "Bb5",
+            "C5",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "Bb",
+            "C",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "F6",
+            "Ab6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db",
+            "F",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Ab5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Ab",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "Ab5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "Ab",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "F5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "Bb5",
+            "Db5",
+            "E6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db",
+            "E",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Eb",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "Eb5",
+            "G5",
+            "A5",
+            "Db5",
+            "E6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Eb",
+            "G",
+            "A",
+            "Db",
+            "E",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "Gb6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "C5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "Bb5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "Bb",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "Gb6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "Bb5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "Gb6",
+            "A6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "Gb",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "Bb5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "Gb6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "Db5",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "Db",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "C5",
+            "D5",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "C",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "Gb6",
+            "Bb6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "Gb",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "B5",
+            "D5",
+            "Gb6",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "B",
+            "D",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "B5",
+            "D5",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "B",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "B5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "B",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "B5",
+            "Db5",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "B",
+            "Db",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "E5",
+            "G5",
+            "B5",
+            "D5",
+            "Gb6",
+            "A6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "G",
+            "B",
+            "D",
+            "Gb",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "E5",
+            "A5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "E5",
+            "A5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "A",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "E5",
+            "Gb5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Gb",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "B5",
+            "D5",
+            "F6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "B",
+            "D",
+            "F",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "E",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "E5",
+            "Ab5",
+            "Bb5",
+            "D5",
+            "F6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "E",
+            "Ab",
+            "Bb",
+            "D",
+            "F",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "G6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "Db5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "Db",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "B5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "B5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "G6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "B5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "G6",
+            "Bb6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "G",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "B5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "G6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "D5",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "D",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "Db5",
+            "Eb5",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "Db",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "G6",
+            "B6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "G",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "C5",
+            "Eb5",
+            "G6",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "C",
+            "Eb",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "C5",
+            "Eb5",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "C",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "C5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "C5",
+            "D5",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "C",
+            "D",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "F5",
+            "Ab5",
+            "C5",
+            "Eb5",
+            "G6",
+            "Bb6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Ab",
+            "C",
+            "Eb",
+            "G",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "F5",
+            "Bb5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Bb",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "F5",
+            "Bb5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "F5",
+            "G5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "G",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "C5",
+            "Eb5",
+            "Gb6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "C",
+            "Eb",
+            "Gb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "F",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "F5",
+            "A5",
+            "B5",
+            "Eb5",
+            "Gb6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "F",
+            "A",
+            "B",
+            "Eb",
+            "Gb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "Ab6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "D5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "C5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "C5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "C",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "Ab6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "C5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "Ab6",
+            "B6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "Ab",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "C5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "Ab6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "Eb5",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "Eb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "D5",
+            "E5",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "D",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "Ab6",
+            "C6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "Ab",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "Db5",
+            "E5",
+            "Ab6",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "Db",
+            "E",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "Db5",
+            "E5",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "Db",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "Db5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "Db",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "Db5",
+            "Eb5",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "Db",
+            "Eb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "A5",
+            "Db5",
+            "E5",
+            "Ab6",
+            "B6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "A",
+            "Db",
+            "E",
+            "Ab",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "B5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "B",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "B5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "B",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Ab5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Ab",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "Db5",
+            "E5",
+            "G6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "Db",
+            "E",
+            "G",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Gb",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "Gb5",
+            "Bb5",
+            "C5",
+            "E5",
+            "G6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Gb",
+            "Bb",
+            "C",
+            "E",
+            "G",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "A6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "Eb5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "Db5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "Db5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "Db",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "A6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "Db5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "A6",
+            "C6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "Db5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "A6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "E5",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "E",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "Eb5",
+            "F5",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "Eb",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "A6",
+            "Db6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "A",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "D5",
+            "F5",
+            "A6",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "D",
+            "F",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "D5",
+            "F5",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "D",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "D5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "D5",
+            "E5",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "D",
+            "E",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "G5",
+            "Bb5",
+            "D5",
+            "F5",
+            "A6",
+            "C6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "Bb",
+            "D",
+            "F",
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "G5",
+            "C5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "C",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "G5",
+            "C5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "G5",
+            "A5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "A",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "D5",
+            "F5",
+            "Ab6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "D",
+            "F",
+            "Ab",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "G",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "G5",
+            "B5",
+            "Db5",
+            "F5",
+            "Ab6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "G",
+            "B",
+            "Db",
+            "F",
+            "Ab",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "Bb6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "E5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "E",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "D5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "D5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "D",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "Bb6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "A6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "D5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "Bb6",
+            "Db6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "D5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "Bb6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "F5",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "E5",
+            "Gb5",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "E",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "Bb6",
+            "D6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "Bb",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "Eb5",
+            "Gb5",
+            "Bb6",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "Eb5",
+            "Gb5",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "Eb",
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "Eb5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "Eb5",
+            "F5",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "Eb",
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "B5",
+            "Eb5",
+            "Gb5",
+            "Bb6",
+            "Db6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "B",
+            "Eb",
+            "Gb",
+            "Bb",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "Db5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "Db",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "Db5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "Db",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "Bb5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "Bb",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "Eb5",
+            "Gb5",
+            "A6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb",
+            "A",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Ab",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "Ab5",
+            "C5",
+            "D5",
+            "Gb5",
+            "A6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "Ab",
+            "C",
+            "D",
+            "Gb",
+            "A",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "B6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "B",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "F5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "F",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "Eb5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "Eb5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "Eb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "B6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "Bb6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "Eb5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "B6",
+            "D6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "B",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "Eb5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "B6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "Gb5",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "Gb",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "F5",
+            "G5",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "F",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "B6",
+            "Eb6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "B",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "E5",
+            "G5",
+            "B6",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "E",
+            "G",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "E5",
+            "G5",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "E",
+            "G",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "E5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "E",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "E5",
+            "Gb5",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "E",
+            "Gb",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "A5",
+            "C5",
+            "E5",
+            "G5",
+            "B6",
+            "D6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "C",
+            "E",
+            "G",
+            "B",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "A5",
+            "D5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "D",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "A5",
+            "D5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "A5",
+            "B5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "E5",
+            "G5",
+            "Bb6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "E",
+            "G",
+            "Bb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "A",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "A5",
+            "Db5",
+            "Eb5",
+            "G5",
+            "Bb6",
+            "Gb6"
+        ],
+        "notes_chord_noOctave": [
+            "A",
+            "Db",
+            "Eb",
+            "G",
+            "Bb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "C6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "Gb5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "Gb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "E5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "E5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "E",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "E5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "C6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "B6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "B"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "E5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "C6",
+            "Eb6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "C",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "E5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "C6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "G5",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "G",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "Gb5",
+            "Ab5",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "Gb",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "C6",
+            "E6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "C",
+            "E",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "F5",
+            "Ab5",
+            "C6",
+            "Eb6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "F",
+            "Ab",
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "F5",
+            "Ab5",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "F",
+            "Ab",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "F5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "F",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "F5",
+            "G5",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "F",
+            "G",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Db5",
+            "F5",
+            "Ab5",
+            "C6",
+            "Eb6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Db",
+            "F",
+            "Ab",
+            "C",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Eb5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Eb",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "Eb5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "C5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "C",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "F5",
+            "Ab5",
+            "B6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "F",
+            "Ab",
+            "B",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "Bb",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "Bb5",
+            "D5",
+            "E5",
+            "Ab5",
+            "B6",
+            "G6"
+        ],
+        "notes_chord_noOctave": [
+            "Bb",
+            "D",
+            "E",
+            "Ab",
+            "B",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "+"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "G5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "+",
+            "11"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "Db6",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "Db",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "+",
+            "maj",
+            "7"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "G5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "+",
+            "7"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "G5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "G",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " dim"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "F5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " dim",
+            " Maj",
+            "7"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "F5",
+            "Bb5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " dim",
+            "7"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "F5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "11"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "Db6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "7",
+            " b9"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "C6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "9"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "7"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "7",
+            "b5"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "F5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "7",
+            "#9"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "D6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "D"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "13"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "Db6",
+            "E6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "Db",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " halfdim",
+            "7"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "F5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "F",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj",
+            "7",
+            "#11"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "F6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "F"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj",
+            "11"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "Db6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj",
+            "7"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj",
+            "6"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj",
+            "6/9"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "Ab5",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "Ab",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj",
+            "9"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "G5",
+            "A5",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "G",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj",
+            "13"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "Db6",
+            "F6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "Db",
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " min"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " min",
+            "11"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "Gb5",
+            "A5",
+            "Db6",
+            "E6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "Gb",
+            "A",
+            "Db",
+            "E"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " maj",
+            " min 7"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " min",
+            "9"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "Gb5",
+            "A5",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "Gb",
+            "A",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " min",
+            "7"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " min",
+            "6"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "Gb5",
+            "Ab5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "Gb",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " min",
+            "6/9"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "Gb5",
+            "Ab5",
+            "Db6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "Gb",
+            "Ab",
+            "Db"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            " min",
+            "13"
+        ],
+        "notes_chord": [
+            "B5",
+            "D5",
+            "Gb5",
+            "A5",
+            "Db6",
+            "E6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "D",
+            "Gb",
+            "A",
+            "Db",
+            "E",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "7",
+            "sus4"
+        ],
+        "notes_chord": [
+            "B5",
+            "E5",
+            "Gb5",
+            "A5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "E",
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "sus4"
+        ],
+        "notes_chord": [
+            "B5",
+            "E5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "E",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "sus2"
+        ],
+        "notes_chord": [
+            "B5",
+            "Db5",
+            "Gb5"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Db",
+            "Gb"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "13",
+            "b9"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "Gb5",
+            "A5",
+            "C6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "Gb",
+            "A",
+            "C",
+            "Ab"
+        ]
+    },
+    {
+        "key_chord": "B",
+        "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "notes_chord": [
+            "B5",
+            "Eb5",
+            "F5",
+            "A5",
+            "C6",
+            "Ab6"
+        ],
+        "notes_chord_noOctave": [
+            "B",
+            "Eb",
+            "F",
+            "A",
+            "C",
+            "Ab"
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" href="../../main.css" />
+    <link rel="stylesheet" href="music_search.css"/>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div class='header'>
+            <a class='no-float-link' id='header' href='./index'>
+                <h1>j<span class='imp'>malt</span></h1>
+            </a>
+
+        </div>
+        <div class='nav'>
+            <ul>
+                <li><a href='../../index' class='active'>about</a></li>
+                <li><a href='../../resume' class='nav-link'>resume</a></li>
+                <li><a href='../../projects' class='nav-link'>projects</a></li>
+                <li><a href='../../writing' class='nav-link'>writing</a></li>
+            </ul>
+        </div>
+        <br /><br />
+        <form autocomplete="off">
+            <label>
+                <input id="searchText" type="text" placeholder="Search">
+            </label>
+            <label>Search by:
+                <select id="searchField">
+                    <option value="scales">Scales</option>
+                    <option value="chords">Chords</option>
+                </select>
+            </label>
+        </form>
+        <script id="scaleTemplate" type="text/x-handlebars-template">
+                {{#each this}}
+                <tr>
+                    <td><h1>{{name_scale}}</h1></td>
+                    <td><h2>{{notes_scale}}</h2></td>
+                </tr>
+                {{/each}}
+            </script>
+        <script id="chordTemplate" type="text/x-handlebars-template">
+                {{#each this}}
+                <div data-chord="{{key_scale}}"> 
+                    <tr>
+                        <td><h1>{{key_chord}}{{#each extensions}}{{this}}{{/each}}</h1></td>
+                        <td><h2>{{#each notes_chord_noOctave}} {{ this }} {{/each}}</h2></td>
+                    </tr>
+                </div>
+                {{/each}}
+            </script>
+
+
+
+        <div class="row">
+            <table id="output"></table>
+        </div>
+
+        <!-- Needs to go at the bottom so the template can load! -->
+        <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js"></script>
+        <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
+        <script type="text/javascript" src="search.js"></script>
+    </div>
+</body>
