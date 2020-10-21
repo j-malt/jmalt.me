@@ -242,122 +242,122 @@
     {
         "key_scale": "C",
         "name_scale": "C Ionian",
-        "notes_scale": "C D Eb F G A Bb"
+        "notes_scale": "C D E F G A B"
     },
     {
         "key_scale": "Db",
         "name_scale": "Db Ionian",
-        "notes_scale": "Db Eb Fb Gb Ab Bb Cb"
+        "notes_scale": "Db Eb F Gb Ab Bb C"
     },
     {
         "key_scale": "D",
         "name_scale": "D Ionian",
-        "notes_scale": "D E F G A B C"
+        "notes_scale": "D E F# G A B C#"
     },
     {
         "key_scale": "Eb",
         "name_scale": "Eb Ionian",
-        "notes_scale": "Eb F Gb Ab Bb C Db"
+        "notes_scale": "Eb F G Ab Bb C D"
     },
     {
         "key_scale": "E",
         "name_scale": "E Ionian",
-        "notes_scale": "E F# G A B C# D"
+        "notes_scale": "E F# G# A B C# D#"
     },
     {
         "key_scale": "F",
         "name_scale": "F Ionian",
-        "notes_scale": "F G Ab Bb C D Eb"
+        "notes_scale": "F G A Bb C D E"
     },
     {
         "key_scale": "Gb",
         "name_scale": "Gb Ionian",
-        "notes_scale": "Gb Ab A Cb Db Eb Fb"
+        "notes_scale": "Gb Ab Bb Cb Db Eb F"
     },
     {
         "key_scale": "G",
         "name_scale": "G Ionian",
-        "notes_scale": "G A Bb C D E F"
+        "notes_scale": "G A B C D E F#"
     },
     {
         "key_scale": "Ab",
         "name_scale": "Ab Ionian",
-        "notes_scale": "Ab Bb Cb Db Eb F Gb"
+        "notes_scale": "Ab Bb C Db Eb F G"
     },
     {
         "key_scale": "A",
         "name_scale": "A Ionian",
-        "notes_scale": "A B C D E F# G"
+        "notes_scale": "A B C# D E F# G#"
     },
     {
         "key_scale": "Bb",
         "name_scale": "Bb Ionian",
-        "notes_scale": "Bb C Db Eb F G Ab"
+        "notes_scale": "Bb C D Eb F G A"
     },
     {
         "key_scale": "B",
         "name_scale": "B Ionian",
-        "notes_scale": "B C# D E F# G# A"
+        "notes_scale": "B C# D# E F# G# A#"
     },
     {
         "key_scale": "C",
         "name_scale": "C Dorian",
-        "notes_scale": "C Db Eb Fb F Gb Ab"
+        "notes_scale": "C D Eb F G A Bb"
     },
     {
         "key_scale": "Db",
         "name_scale": "Db Dorian",
-        "notes_scale": "Db D Fb F Gb G A"
+        "notes_scale": "Db Eb Fb Gb Ab Bb Cb"
     },
     {
         "key_scale": "D",
         "name_scale": "D Dorian",
-        "notes_scale": "D Eb F Gb G Ab Bb"
+        "notes_scale": "D E F G A B C"
     },
     {
         "key_scale": "Eb",
         "name_scale": "Eb Dorian",
-        "notes_scale": "Eb Fb Gb G Ab A Cb"
+        "notes_scale": "Eb F Gb Ab Bb C Db"
     },
     {
         "key_scale": "E",
         "name_scale": "E Dorian",
-        "notes_scale": "E F G Ab A Bb C"
+        "notes_scale": "E F# G A B C# D"
     },
     {
         "key_scale": "F",
         "name_scale": "F Dorian",
-        "notes_scale": "F Gb Ab A Bb Cb Db"
+        "notes_scale": "F G Ab Bb C D Eb"
     },
     {
         "key_scale": "Gb",
         "name_scale": "Gb Dorian",
-        "notes_scale": "Gb G A Bb Cb C D"
+        "notes_scale": "Gb Ab A Cb Db Eb Fb"
     },
     {
         "key_scale": "G",
         "name_scale": "G Dorian",
-        "notes_scale": "G Ab Bb Cb C Db Eb"
+        "notes_scale": "G A Bb C D E F"
     },
     {
         "key_scale": "Ab",
         "name_scale": "Ab Dorian",
-        "notes_scale": "Ab A Cb C Db D Fb"
+        "notes_scale": "Ab Bb Cb Db Eb F Gb"
     },
     {
         "key_scale": "A",
         "name_scale": "A Dorian",
-        "notes_scale": "A Bb C Db D Eb F"
+        "notes_scale": "A B C D E F# G"
     },
     {
         "key_scale": "Bb",
         "name_scale": "Bb Dorian",
-        "notes_scale": "Bb Cb Db D Eb Fb Gb"
+        "notes_scale": "Bb C Db Eb F G Ab"
     },
     {
         "key_scale": "B",
         "name_scale": "B Dorian",
-        "notes_scale": "B C D Eb Fb F G"
+        "notes_scale": "B C# D E F# G# A"
     },
     {
         "key_scale": "C",
@@ -422,62 +422,62 @@
     {
         "key_scale": "C",
         "name_scale": "C Lydian",
-        "notes_scale": "C D Eb F G Ab Bb"
+        "notes_scale": "C D E F# G A B"
     },
     {
         "key_scale": "Db",
         "name_scale": "Db Lydian",
-        "notes_scale": "Db Eb Fb Gb Ab A Cb"
+        "notes_scale": "Db Eb F G Ab Bb C"
     },
     {
         "key_scale": "D",
         "name_scale": "D Lydian",
-        "notes_scale": "D E F G A Bb C"
+        "notes_scale": "D E F# G# A B C#"
     },
     {
         "key_scale": "Eb",
         "name_scale": "Eb Lydian",
-        "notes_scale": "Eb F Gb Ab Bb Cb Db"
+        "notes_scale": "Eb F G A Bb C D"
     },
     {
         "key_scale": "E",
         "name_scale": "E Lydian",
-        "notes_scale": "E F# G A B C D"
+        "notes_scale": "E F# G# A# B C# D#"
     },
     {
         "key_scale": "F",
         "name_scale": "F Lydian",
-        "notes_scale": "F G Ab Bb C Db Eb"
+        "notes_scale": "F G A B C D E"
     },
     {
         "key_scale": "Gb",
         "name_scale": "Gb Lydian",
-        "notes_scale": "Gb Ab A Cb Db D Fb"
+        "notes_scale": "Gb Ab Bb C Db Eb F"
     },
     {
         "key_scale": "G",
         "name_scale": "G Lydian",
-        "notes_scale": "G A Bb C D Eb F"
+        "notes_scale": "G A B C# D E F#"
     },
     {
         "key_scale": "Ab",
         "name_scale": "Ab Lydian",
-        "notes_scale": "Ab Bb Cb Db Eb Fb Gb"
+        "notes_scale": "Ab Bb C D Eb F G"
     },
     {
         "key_scale": "A",
         "name_scale": "A Lydian",
-        "notes_scale": "A B C D E F G"
+        "notes_scale": "A B C# D# E F# G#"
     },
     {
         "key_scale": "Bb",
         "name_scale": "Bb Lydian",
-        "notes_scale": "Bb C Db Eb F Gb Ab"
+        "notes_scale": "Bb C D E F G A"
     },
     {
         "key_scale": "B",
         "name_scale": "B Lydian",
-        "notes_scale": "B C# D E F# G A"
+        "notes_scale": "B C# D# E# F# G# A#"
     },
     {
         "key_scale": "C",

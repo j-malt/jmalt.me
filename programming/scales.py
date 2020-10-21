@@ -69,8 +69,8 @@ def generate_scale(intervals):
     Modes
         Aeolian: W H W W H W W
         Locrian: H W W H W W W 
-        Ionian: W H W W W H W
-        Dorian: H W H H H W H
+        Ionian: W W H W W W H
+        Dorian: W H W W W H W
         Phrygian: H W W W H W W 
         Lydian: W W W H W W H
         Mixolydian: W W H W W H W
@@ -90,10 +90,10 @@ buildScales("Major", "W W H W W W H")
 buildScales("Minor", "W H W W H W W")
 buildScales("Aeolian", "W H W W H W W")
 buildScales("Locrian", "H W W H W W W")
-buildScales("Ionian", "W H W W W H W")
-buildScales("Dorian", "H W H H H W H")
+buildScales("Ionian", "W W H W W W H")
+buildScales("Dorian", "W H W W W H W")
 buildScales("Phrygian", "H W W W H W W")
-buildScales("Lydian", "W H W W H W W")
+buildScales("Lydian", "W W W H W W H")
 buildScales("Mixolydian", "W W H W W H W")
 with open("./data/scales.json", 'a+') as f:
     json.dump(d, f, indent=4)
