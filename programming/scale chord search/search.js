@@ -23,7 +23,8 @@ function collapseObject(obj) {
     if (
       key == "notes_chord" ||
       key == "notes_scale" ||
-      key == "notes_chord_noOctave"
+      key == "notes_chord_noOctave" ||
+      key == "extensions"
     ) {
       continue;
     }
@@ -36,14 +37,15 @@ function collapseObject(obj) {
       }
     }
   }
-  return res;
+  return res.toLowerCase().replace(/ /g, "");
 }
 
 function searchEngine(searchString, searchData) {
   var result = [];
+  searchString = searchString.replace(/ /g, "");
   $.each(searchData, (item) => {
     var val = collapseObject(searchData[item]);
-    if (val.toLowerCase().indexOf(searchString) > 0) {
+    if (val.includes(searchString)) {
       result.push(searchData[item]);
       if (result.length > 10) return false;
     }

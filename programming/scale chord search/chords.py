@@ -51,13 +51,13 @@ chord_list = {
 notes = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"]
 
 def translateExtension(name):
-    # Stupid method to make extensions more palletable. 
-    # Probably won't use.
+    # Stupid method to make extensions more searchable. 
+
     name = name.replace("maj", "Major")
     name = name.replace("min", "Minor")
+    name = name.replace("halfdim", " Half Diminished")
     name = name.replace("dim", "Diminished")
     name = name.replace("dom", "Dominant")
-    name = name.replace("halfdim", " Half Diminished")
     return name
  
 
@@ -97,7 +97,7 @@ def buildChords(chords):
             extensions = key.split(',')
             d["key_chord"] = note
             d["extensions"] = extensions
-            #d["readable_extensions"] = [translateExtension(ext) for ext in extensions]
+            d["readable_extensions"] = [translateExtension(ext) for ext in extensions]
             d["notes_chord"] = chordNotes[0]
             d["notes_chord_noOctave"] = chordNotes[1]
             l.append(d)

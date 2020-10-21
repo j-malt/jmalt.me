@@ -4,6 +4,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -18,6 +21,10 @@
     {
         "key_chord": "C",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -45,6 +52,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -61,6 +73,10 @@
     {
         "key_chord": "C",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -82,6 +98,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "C5",
             "Eb5",
@@ -97,6 +116,11 @@
         "key_chord": "C",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -119,6 +143,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "C5",
             "Eb5",
@@ -135,6 +163,9 @@
     {
         "key_chord": "C",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -160,6 +191,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -178,6 +213,9 @@
     {
         "key_chord": "C",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -200,6 +238,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -216,6 +257,10 @@
     {
         "key_chord": "C",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -238,6 +283,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -256,6 +305,9 @@
     {
         "key_chord": "C",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -283,6 +335,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "C5",
             "Eb5",
@@ -300,6 +356,11 @@
         "key_chord": "C",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -323,6 +384,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -338,6 +402,10 @@
         "key_chord": "C",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -363,6 +431,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -382,6 +454,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -399,6 +475,10 @@
         "key_chord": "C",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -422,6 +502,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -441,6 +525,10 @@
         "key_chord": "C",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -467,6 +555,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "C5",
             "Eb5",
@@ -482,6 +573,10 @@
         "key_chord": "C",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -507,6 +602,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "C5",
             "Eb5",
@@ -524,6 +623,10 @@
         "key_chord": "C",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -547,6 +650,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "C5",
             "Eb5",
@@ -564,6 +671,10 @@
         "key_chord": "C",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -585,6 +696,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "C5",
             "Eb5",
@@ -604,6 +719,10 @@
         "key_chord": "C",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -631,6 +750,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "C5",
             "F5",
@@ -649,6 +772,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "C5",
             "F5",
@@ -665,6 +791,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "C5",
             "D5",
@@ -679,6 +808,10 @@
     {
         "key_chord": "C",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -706,6 +839,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "C5",
             "E5",
@@ -728,6 +866,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -742,6 +883,10 @@
     {
         "key_chord": "Db",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -769,6 +914,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -785,6 +935,10 @@
     {
         "key_chord": "Db",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -806,6 +960,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "Db5",
             "E5",
@@ -821,6 +978,11 @@
         "key_chord": "Db",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -843,6 +1005,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Db5",
             "E5",
@@ -859,6 +1025,9 @@
     {
         "key_chord": "Db",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -884,6 +1053,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -902,6 +1075,9 @@
     {
         "key_chord": "Db",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -924,6 +1100,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -940,6 +1119,10 @@
     {
         "key_chord": "Db",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -962,6 +1145,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -980,6 +1167,9 @@
     {
         "key_chord": "Db",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -1007,6 +1197,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Db5",
             "E5",
@@ -1024,6 +1218,11 @@
         "key_chord": "Db",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -1047,6 +1246,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -1062,6 +1264,10 @@
         "key_chord": "Db",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -1087,6 +1293,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -1106,6 +1316,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -1123,6 +1337,10 @@
         "key_chord": "Db",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -1146,6 +1364,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -1165,6 +1387,10 @@
         "key_chord": "Db",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -1191,6 +1417,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "Db5",
             "E5",
@@ -1206,6 +1435,10 @@
         "key_chord": "Db",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -1231,6 +1464,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "Db5",
             "E5",
@@ -1248,6 +1485,10 @@
         "key_chord": "Db",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -1271,6 +1512,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "Db5",
             "E5",
@@ -1288,6 +1533,10 @@
         "key_chord": "Db",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -1309,6 +1558,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "Db5",
             "E5",
@@ -1328,6 +1581,10 @@
         "key_chord": "Db",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -1355,6 +1612,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "Db5",
             "Gb5",
@@ -1373,6 +1634,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "Db5",
             "Gb5",
@@ -1389,6 +1653,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "Db5",
             "Eb5",
@@ -1403,6 +1670,10 @@
     {
         "key_chord": "Db",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -1430,6 +1701,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "Db5",
             "F5",
@@ -1452,6 +1728,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1466,6 +1745,10 @@
     {
         "key_chord": "D",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -1493,6 +1776,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1509,6 +1797,10 @@
     {
         "key_chord": "D",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -1529,6 +1821,9 @@
         "key_chord": "D",
         "extensions": [
             " dim"
+        ],
+        "readable_extensions": [
+            " Diminished"
         ],
         "notes_chord": [
             "D5",
@@ -1548,6 +1843,11 @@
             " Maj",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            " Maj",
+            "7"
+        ],
         "notes_chord": [
             "D5",
             "F5",
@@ -1567,6 +1867,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "D5",
             "F5",
@@ -1583,6 +1887,9 @@
     {
         "key_chord": "D",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -1608,6 +1915,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1626,6 +1937,9 @@
     {
         "key_chord": "D",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -1648,6 +1962,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1664,6 +1981,10 @@
     {
         "key_chord": "D",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -1686,6 +2007,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1704,6 +2029,9 @@
     {
         "key_chord": "D",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -1731,6 +2059,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "D5",
             "F5",
@@ -1748,6 +2080,11 @@
         "key_chord": "D",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -1771,6 +2108,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1786,6 +2126,10 @@
         "key_chord": "D",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -1811,6 +2155,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1830,6 +2178,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1847,6 +2199,10 @@
         "key_chord": "D",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -1870,6 +2226,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -1889,6 +2249,10 @@
         "key_chord": "D",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -1915,6 +2279,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "D5",
             "F5",
@@ -1930,6 +2297,10 @@
         "key_chord": "D",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -1955,6 +2326,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "D5",
             "F5",
@@ -1972,6 +2347,10 @@
         "key_chord": "D",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -1995,6 +2374,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "D5",
             "F5",
@@ -2012,6 +2395,10 @@
         "key_chord": "D",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -2033,6 +2420,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "D5",
             "F5",
@@ -2052,6 +2443,10 @@
         "key_chord": "D",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -2079,6 +2474,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "D5",
             "G5",
@@ -2097,6 +2496,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "D5",
             "G5",
@@ -2113,6 +2515,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "D5",
             "E5",
@@ -2127,6 +2532,10 @@
     {
         "key_chord": "D",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -2154,6 +2563,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "D5",
             "Gb5",
@@ -2176,6 +2590,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2190,6 +2607,10 @@
     {
         "key_chord": "Eb",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -2217,6 +2638,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2233,6 +2659,10 @@
     {
         "key_chord": "Eb",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -2253,6 +2683,9 @@
         "key_chord": "Eb",
         "extensions": [
             " dim"
+        ],
+        "readable_extensions": [
+            " Diminished"
         ],
         "notes_chord": [
             "Eb5",
@@ -2272,6 +2705,11 @@
             " Maj",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            " Maj",
+            "7"
+        ],
         "notes_chord": [
             "Eb5",
             "Gb5",
@@ -2291,6 +2729,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Eb5",
             "Gb5",
@@ -2307,6 +2749,9 @@
     {
         "key_chord": "Eb",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -2332,6 +2777,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2350,6 +2799,9 @@
     {
         "key_chord": "Eb",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -2372,6 +2824,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2388,6 +2843,10 @@
     {
         "key_chord": "Eb",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -2410,6 +2869,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2428,6 +2891,9 @@
     {
         "key_chord": "Eb",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -2455,6 +2921,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Eb5",
             "Gb5",
@@ -2472,6 +2942,11 @@
         "key_chord": "Eb",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -2495,6 +2970,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2510,6 +2988,10 @@
         "key_chord": "Eb",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -2535,6 +3017,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2554,6 +3040,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2571,6 +3061,10 @@
         "key_chord": "Eb",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -2594,6 +3088,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2613,6 +3111,10 @@
         "key_chord": "Eb",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -2639,6 +3141,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "Eb5",
             "Gb5",
@@ -2654,6 +3159,10 @@
         "key_chord": "Eb",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -2679,6 +3188,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "Eb5",
             "Gb5",
@@ -2696,6 +3209,10 @@
         "key_chord": "Eb",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -2719,6 +3236,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "Eb5",
             "Gb5",
@@ -2736,6 +3257,10 @@
         "key_chord": "Eb",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -2757,6 +3282,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "Eb5",
             "Gb5",
@@ -2776,6 +3305,10 @@
         "key_chord": "Eb",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -2803,6 +3336,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "Eb5",
             "Ab5",
@@ -2821,6 +3358,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "Eb5",
             "Ab5",
@@ -2837,6 +3377,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "Eb5",
             "F5",
@@ -2851,6 +3394,10 @@
     {
         "key_chord": "Eb",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -2878,6 +3425,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "Eb5",
             "G5",
@@ -2900,6 +3452,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -2914,6 +3469,10 @@
     {
         "key_chord": "E",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -2941,6 +3500,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -2957,6 +3521,10 @@
     {
         "key_chord": "E",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -2977,6 +3545,9 @@
         "key_chord": "E",
         "extensions": [
             " dim"
+        ],
+        "readable_extensions": [
+            " Diminished"
         ],
         "notes_chord": [
             "E5",
@@ -2996,6 +3567,11 @@
             " Maj",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            " Maj",
+            "7"
+        ],
         "notes_chord": [
             "E5",
             "G5",
@@ -3015,6 +3591,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "E5",
             "G5",
@@ -3031,6 +3611,9 @@
     {
         "key_chord": "E",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -3056,6 +3639,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -3074,6 +3661,9 @@
     {
         "key_chord": "E",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -3096,6 +3686,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -3112,6 +3705,10 @@
     {
         "key_chord": "E",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -3134,6 +3731,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -3152,6 +3753,9 @@
     {
         "key_chord": "E",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -3179,6 +3783,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "E5",
             "G5",
@@ -3196,6 +3804,11 @@
         "key_chord": "E",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -3219,6 +3832,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -3234,6 +3850,10 @@
         "key_chord": "E",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -3259,6 +3879,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -3278,6 +3902,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -3295,6 +3923,10 @@
         "key_chord": "E",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -3318,6 +3950,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -3337,6 +3973,10 @@
         "key_chord": "E",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -3363,6 +4003,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "E5",
             "G5",
@@ -3378,6 +4021,10 @@
         "key_chord": "E",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -3403,6 +4050,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "E5",
             "G5",
@@ -3420,6 +4071,10 @@
         "key_chord": "E",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -3443,6 +4098,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "E5",
             "G5",
@@ -3460,6 +4119,10 @@
         "key_chord": "E",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -3481,6 +4144,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "E5",
             "G5",
@@ -3500,6 +4167,10 @@
         "key_chord": "E",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -3527,6 +4198,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "E5",
             "A5",
@@ -3545,6 +4220,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "E5",
             "A5",
@@ -3561,6 +4239,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "E5",
             "Gb5",
@@ -3575,6 +4256,10 @@
     {
         "key_chord": "E",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -3602,6 +4287,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "E5",
             "Ab5",
@@ -3624,6 +4314,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -3638,6 +4331,10 @@
     {
         "key_chord": "F",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -3665,6 +4362,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -3681,6 +4383,10 @@
     {
         "key_chord": "F",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -3702,6 +4408,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "F5",
             "Ab5",
@@ -3717,6 +4426,11 @@
         "key_chord": "F",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -3739,6 +4453,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "F5",
             "Ab5",
@@ -3755,6 +4473,9 @@
     {
         "key_chord": "F",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -3780,6 +4501,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -3798,6 +4523,9 @@
     {
         "key_chord": "F",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -3820,6 +4548,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -3836,6 +4567,10 @@
     {
         "key_chord": "F",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -3858,6 +4593,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -3876,6 +4615,9 @@
     {
         "key_chord": "F",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -3903,6 +4645,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "F5",
             "Ab5",
@@ -3920,6 +4666,11 @@
         "key_chord": "F",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -3943,6 +4694,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -3958,6 +4712,10 @@
         "key_chord": "F",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -3983,6 +4741,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -4002,6 +4764,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -4019,6 +4785,10 @@
         "key_chord": "F",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -4042,6 +4812,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -4061,6 +4835,10 @@
         "key_chord": "F",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -4087,6 +4865,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "F5",
             "Ab5",
@@ -4102,6 +4883,10 @@
         "key_chord": "F",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -4127,6 +4912,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "F5",
             "Ab5",
@@ -4144,6 +4933,10 @@
         "key_chord": "F",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -4167,6 +4960,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "F5",
             "Ab5",
@@ -4184,6 +4981,10 @@
         "key_chord": "F",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -4205,6 +5006,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "F5",
             "Ab5",
@@ -4224,6 +5029,10 @@
         "key_chord": "F",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -4251,6 +5060,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "F5",
             "Bb5",
@@ -4269,6 +5082,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "F5",
             "Bb5",
@@ -4285,6 +5101,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "F5",
             "G5",
@@ -4299,6 +5118,10 @@
     {
         "key_chord": "F",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -4326,6 +5149,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "F5",
             "A5",
@@ -4348,6 +5176,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4362,6 +5193,10 @@
     {
         "key_chord": "Gb",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -4389,6 +5224,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4405,6 +5245,10 @@
     {
         "key_chord": "Gb",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -4426,6 +5270,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "Gb5",
             "A5",
@@ -4441,6 +5288,11 @@
         "key_chord": "Gb",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -4463,6 +5315,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Gb5",
             "A5",
@@ -4479,6 +5335,9 @@
     {
         "key_chord": "Gb",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -4504,6 +5363,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4522,6 +5385,9 @@
     {
         "key_chord": "Gb",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -4544,6 +5410,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4560,6 +5429,10 @@
     {
         "key_chord": "Gb",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -4582,6 +5455,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4600,6 +5477,9 @@
     {
         "key_chord": "Gb",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -4627,6 +5507,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Gb5",
             "A5",
@@ -4644,6 +5528,11 @@
         "key_chord": "Gb",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -4667,6 +5556,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4682,6 +5574,10 @@
         "key_chord": "Gb",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -4707,6 +5603,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4726,6 +5626,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4743,6 +5647,10 @@
         "key_chord": "Gb",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -4766,6 +5674,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -4785,6 +5697,10 @@
         "key_chord": "Gb",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -4811,6 +5727,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "Gb5",
             "A5",
@@ -4826,6 +5745,10 @@
         "key_chord": "Gb",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -4851,6 +5774,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "Gb5",
             "A5",
@@ -4868,6 +5795,10 @@
         "key_chord": "Gb",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -4891,6 +5822,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "Gb5",
             "A5",
@@ -4908,6 +5843,10 @@
         "key_chord": "Gb",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -4929,6 +5868,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "Gb5",
             "A5",
@@ -4948,6 +5891,10 @@
         "key_chord": "Gb",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -4975,6 +5922,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "Gb5",
             "B5",
@@ -4993,6 +5944,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "Gb5",
             "B5",
@@ -5009,6 +5963,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "Gb5",
             "Ab5",
@@ -5023,6 +5980,10 @@
     {
         "key_chord": "Gb",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -5050,6 +6011,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "Gb5",
             "Bb5",
@@ -5072,6 +6038,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5086,6 +6055,10 @@
     {
         "key_chord": "G",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -5113,6 +6086,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5129,6 +6107,10 @@
     {
         "key_chord": "G",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -5150,6 +6132,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "G5",
             "Bb5",
@@ -5165,6 +6150,11 @@
         "key_chord": "G",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -5187,6 +6177,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "G5",
             "Bb5",
@@ -5203,6 +6197,9 @@
     {
         "key_chord": "G",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -5228,6 +6225,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5246,6 +6247,9 @@
     {
         "key_chord": "G",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -5268,6 +6272,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5284,6 +6291,10 @@
     {
         "key_chord": "G",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -5306,6 +6317,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5324,6 +6339,9 @@
     {
         "key_chord": "G",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -5351,6 +6369,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "G5",
             "Bb5",
@@ -5368,6 +6390,11 @@
         "key_chord": "G",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -5391,6 +6418,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5406,6 +6436,10 @@
         "key_chord": "G",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -5431,6 +6465,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5450,6 +6488,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5467,6 +6509,10 @@
         "key_chord": "G",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -5490,6 +6536,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5509,6 +6559,10 @@
         "key_chord": "G",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -5535,6 +6589,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "G5",
             "Bb5",
@@ -5550,6 +6607,10 @@
         "key_chord": "G",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -5575,6 +6636,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "G5",
             "Bb5",
@@ -5592,6 +6657,10 @@
         "key_chord": "G",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -5615,6 +6684,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "G5",
             "Bb5",
@@ -5632,6 +6705,10 @@
         "key_chord": "G",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -5653,6 +6730,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "G5",
             "Bb5",
@@ -5672,6 +6753,10 @@
         "key_chord": "G",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -5699,6 +6784,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "G5",
             "C5",
@@ -5717,6 +6806,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "G5",
             "C5",
@@ -5733,6 +6825,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "G5",
             "A5",
@@ -5747,6 +6842,10 @@
     {
         "key_chord": "G",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -5774,6 +6873,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "G5",
             "B5",
@@ -5796,6 +6900,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -5810,6 +6917,10 @@
     {
         "key_chord": "Ab",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -5837,6 +6948,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -5853,6 +6969,10 @@
     {
         "key_chord": "Ab",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -5874,6 +6994,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "Ab5",
             "B5",
@@ -5889,6 +7012,11 @@
         "key_chord": "Ab",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -5911,6 +7039,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Ab5",
             "B5",
@@ -5927,6 +7059,9 @@
     {
         "key_chord": "Ab",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -5952,6 +7087,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -5970,6 +7109,9 @@
     {
         "key_chord": "Ab",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -5992,6 +7134,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -6008,6 +7153,10 @@
     {
         "key_chord": "Ab",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -6030,6 +7179,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -6048,6 +7201,9 @@
     {
         "key_chord": "Ab",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -6075,6 +7231,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Ab5",
             "B5",
@@ -6092,6 +7252,11 @@
         "key_chord": "Ab",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -6115,6 +7280,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -6130,6 +7298,10 @@
         "key_chord": "Ab",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -6155,6 +7327,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -6174,6 +7350,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -6191,6 +7371,10 @@
         "key_chord": "Ab",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -6214,6 +7398,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -6233,6 +7421,10 @@
         "key_chord": "Ab",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -6259,6 +7451,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "Ab5",
             "B5",
@@ -6274,6 +7469,10 @@
         "key_chord": "Ab",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -6299,6 +7498,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "Ab5",
             "B5",
@@ -6316,6 +7519,10 @@
         "key_chord": "Ab",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -6339,6 +7546,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "Ab5",
             "B5",
@@ -6356,6 +7567,10 @@
         "key_chord": "Ab",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -6377,6 +7592,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "Ab5",
             "B5",
@@ -6396,6 +7615,10 @@
         "key_chord": "Ab",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -6423,6 +7646,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "Ab5",
             "Db5",
@@ -6441,6 +7668,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "Ab5",
             "Db5",
@@ -6457,6 +7687,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "Ab5",
             "Bb5",
@@ -6471,6 +7704,10 @@
     {
         "key_chord": "Ab",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -6498,6 +7735,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "Ab5",
             "C5",
@@ -6520,6 +7762,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6534,6 +7779,10 @@
     {
         "key_chord": "A",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -6561,6 +7810,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6577,6 +7831,10 @@
     {
         "key_chord": "A",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -6598,6 +7856,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "A5",
             "C5",
@@ -6613,6 +7874,11 @@
         "key_chord": "A",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -6635,6 +7901,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "A5",
             "C5",
@@ -6651,6 +7921,9 @@
     {
         "key_chord": "A",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -6676,6 +7949,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6694,6 +7971,9 @@
     {
         "key_chord": "A",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -6716,6 +7996,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6732,6 +8015,10 @@
     {
         "key_chord": "A",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -6754,6 +8041,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6772,6 +8063,9 @@
     {
         "key_chord": "A",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -6799,6 +8093,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "A5",
             "C5",
@@ -6816,6 +8114,11 @@
         "key_chord": "A",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -6839,6 +8142,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6854,6 +8160,10 @@
         "key_chord": "A",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -6879,6 +8189,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6898,6 +8212,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6915,6 +8233,10 @@
         "key_chord": "A",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -6938,6 +8260,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -6957,6 +8283,10 @@
         "key_chord": "A",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -6983,6 +8313,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "A5",
             "C5",
@@ -6998,6 +8331,10 @@
         "key_chord": "A",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -7023,6 +8360,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "A5",
             "C5",
@@ -7040,6 +8381,10 @@
         "key_chord": "A",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -7063,6 +8408,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "A5",
             "C5",
@@ -7080,6 +8429,10 @@
         "key_chord": "A",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -7101,6 +8454,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "A5",
             "C5",
@@ -7120,6 +8477,10 @@
         "key_chord": "A",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -7147,6 +8508,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "A5",
             "D5",
@@ -7165,6 +8530,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "A5",
             "D5",
@@ -7181,6 +8549,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "A5",
             "B5",
@@ -7195,6 +8566,10 @@
     {
         "key_chord": "A",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -7222,6 +8597,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "A5",
             "Db5",
@@ -7244,6 +8624,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7258,6 +8641,10 @@
     {
         "key_chord": "Bb",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -7285,6 +8672,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7301,6 +8693,10 @@
     {
         "key_chord": "Bb",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -7322,6 +8718,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "Bb5",
             "Db5",
@@ -7337,6 +8736,11 @@
         "key_chord": "Bb",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -7359,6 +8763,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Bb5",
             "Db5",
@@ -7375,6 +8783,9 @@
     {
         "key_chord": "Bb",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -7400,6 +8811,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7418,6 +8833,9 @@
     {
         "key_chord": "Bb",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -7440,6 +8858,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7456,6 +8877,10 @@
     {
         "key_chord": "Bb",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -7478,6 +8903,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7496,6 +8925,9 @@
     {
         "key_chord": "Bb",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -7523,6 +8955,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "Bb5",
             "Db5",
@@ -7540,6 +8976,11 @@
         "key_chord": "Bb",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -7563,6 +9004,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7578,6 +9022,10 @@
         "key_chord": "Bb",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -7603,6 +9051,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7622,6 +9074,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7639,6 +9095,10 @@
         "key_chord": "Bb",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -7662,6 +9122,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7681,6 +9145,10 @@
         "key_chord": "Bb",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -7707,6 +9175,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "Bb5",
             "Db5",
@@ -7722,6 +9193,10 @@
         "key_chord": "Bb",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -7747,6 +9222,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "Bb5",
             "Db5",
@@ -7764,6 +9243,10 @@
         "key_chord": "Bb",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -7787,6 +9270,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "Bb5",
             "Db5",
@@ -7804,6 +9291,10 @@
         "key_chord": "Bb",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -7825,6 +9316,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "Bb5",
             "Db5",
@@ -7844,6 +9339,10 @@
         "key_chord": "Bb",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -7871,6 +9370,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "Bb5",
             "Eb5",
@@ -7889,6 +9392,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "Bb5",
             "Eb5",
@@ -7905,6 +9411,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "Bb5",
             "C5",
@@ -7919,6 +9428,10 @@
     {
         "key_chord": "Bb",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -7946,6 +9459,11 @@
             "b9",
             "b5"
         ],
+        "readable_extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
         "notes_chord": [
             "Bb5",
             "D5",
@@ -7968,6 +9486,9 @@
         "extensions": [
             "+"
         ],
+        "readable_extensions": [
+            "+"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -7982,6 +9503,10 @@
     {
         "key_chord": "B",
         "extensions": [
+            "+",
+            "11"
+        ],
+        "readable_extensions": [
             "+",
             "11"
         ],
@@ -8009,6 +9534,11 @@
             "maj",
             "7"
         ],
+        "readable_extensions": [
+            "+",
+            "Major",
+            "7"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -8025,6 +9555,10 @@
     {
         "key_chord": "B",
         "extensions": [
+            "+",
+            "7"
+        ],
+        "readable_extensions": [
             "+",
             "7"
         ],
@@ -8046,6 +9580,9 @@
         "extensions": [
             " dim"
         ],
+        "readable_extensions": [
+            " Diminished"
+        ],
         "notes_chord": [
             "B5",
             "D5",
@@ -8061,6 +9598,11 @@
         "key_chord": "B",
         "extensions": [
             " dim",
+            " Maj",
+            "7"
+        ],
+        "readable_extensions": [
+            " Diminished",
             " Maj",
             "7"
         ],
@@ -8083,6 +9625,10 @@
             " dim",
             "7"
         ],
+        "readable_extensions": [
+            " Diminished",
+            "7"
+        ],
         "notes_chord": [
             "B5",
             "D5",
@@ -8099,6 +9645,9 @@
     {
         "key_chord": "B",
         "extensions": [
+            "11"
+        ],
+        "readable_extensions": [
             "11"
         ],
         "notes_chord": [
@@ -8124,6 +9673,10 @@
             "7",
             " b9"
         ],
+        "readable_extensions": [
+            "7",
+            " b9"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -8142,6 +9695,9 @@
     {
         "key_chord": "B",
         "extensions": [
+            "9"
+        ],
+        "readable_extensions": [
             "9"
         ],
         "notes_chord": [
@@ -8164,6 +9720,9 @@
         "extensions": [
             "7"
         ],
+        "readable_extensions": [
+            "7"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -8180,6 +9739,10 @@
     {
         "key_chord": "B",
         "extensions": [
+            "7",
+            "b5"
+        ],
+        "readable_extensions": [
             "7",
             "b5"
         ],
@@ -8202,6 +9765,10 @@
             "7",
             "#9"
         ],
+        "readable_extensions": [
+            "7",
+            "#9"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -8220,6 +9787,9 @@
     {
         "key_chord": "B",
         "extensions": [
+            "13"
+        ],
+        "readable_extensions": [
             "13"
         ],
         "notes_chord": [
@@ -8247,6 +9817,10 @@
             " halfdim",
             "7"
         ],
+        "readable_extensions": [
+            "  Half Diminished",
+            "7"
+        ],
         "notes_chord": [
             "B5",
             "D5",
@@ -8264,6 +9838,11 @@
         "key_chord": "B",
         "extensions": [
             " maj",
+            "7",
+            "#11"
+        ],
+        "readable_extensions": [
+            " Major",
             "7",
             "#11"
         ],
@@ -8287,6 +9866,9 @@
         "extensions": [
             " maj"
         ],
+        "readable_extensions": [
+            " Major"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -8302,6 +9884,10 @@
         "key_chord": "B",
         "extensions": [
             " maj",
+            "11"
+        ],
+        "readable_extensions": [
+            " Major",
             "11"
         ],
         "notes_chord": [
@@ -8327,6 +9913,10 @@
             " maj",
             "7"
         ],
+        "readable_extensions": [
+            " Major",
+            "7"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -8346,6 +9936,10 @@
             " maj",
             "6"
         ],
+        "readable_extensions": [
+            " Major",
+            "6"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -8363,6 +9957,10 @@
         "key_chord": "B",
         "extensions": [
             " maj",
+            "6/9"
+        ],
+        "readable_extensions": [
+            " Major",
             "6/9"
         ],
         "notes_chord": [
@@ -8386,6 +9984,10 @@
             " maj",
             "9"
         ],
+        "readable_extensions": [
+            " Major",
+            "9"
+        ],
         "notes_chord": [
             "B5",
             "Eb5",
@@ -8405,6 +10007,10 @@
         "key_chord": "B",
         "extensions": [
             " maj",
+            "13"
+        ],
+        "readable_extensions": [
+            " Major",
             "13"
         ],
         "notes_chord": [
@@ -8431,6 +10037,9 @@
         "extensions": [
             " min"
         ],
+        "readable_extensions": [
+            " Minor"
+        ],
         "notes_chord": [
             "B5",
             "D5",
@@ -8446,6 +10055,10 @@
         "key_chord": "B",
         "extensions": [
             " min",
+            "11"
+        ],
+        "readable_extensions": [
+            " Minor",
             "11"
         ],
         "notes_chord": [
@@ -8471,6 +10084,10 @@
             " maj",
             " min 7"
         ],
+        "readable_extensions": [
+            " Major",
+            " Minor 7"
+        ],
         "notes_chord": [
             "B5",
             "D5",
@@ -8488,6 +10105,10 @@
         "key_chord": "B",
         "extensions": [
             " min",
+            "9"
+        ],
+        "readable_extensions": [
+            " Minor",
             "9"
         ],
         "notes_chord": [
@@ -8511,6 +10132,10 @@
             " min",
             "7"
         ],
+        "readable_extensions": [
+            " Minor",
+            "7"
+        ],
         "notes_chord": [
             "B5",
             "D5",
@@ -8528,6 +10153,10 @@
         "key_chord": "B",
         "extensions": [
             " min",
+            "6"
+        ],
+        "readable_extensions": [
+            " Minor",
             "6"
         ],
         "notes_chord": [
@@ -8549,6 +10178,10 @@
             " min",
             "6/9"
         ],
+        "readable_extensions": [
+            " Minor",
+            "6/9"
+        ],
         "notes_chord": [
             "B5",
             "D5",
@@ -8568,6 +10201,10 @@
         "key_chord": "B",
         "extensions": [
             " min",
+            "13"
+        ],
+        "readable_extensions": [
+            " Minor",
             "13"
         ],
         "notes_chord": [
@@ -8595,6 +10232,10 @@
             "7",
             "sus4"
         ],
+        "readable_extensions": [
+            "7",
+            "sus4"
+        ],
         "notes_chord": [
             "B5",
             "E5",
@@ -8613,6 +10254,9 @@
         "extensions": [
             "sus4"
         ],
+        "readable_extensions": [
+            "sus4"
+        ],
         "notes_chord": [
             "B5",
             "E5",
@@ -8629,6 +10273,9 @@
         "extensions": [
             "sus2"
         ],
+        "readable_extensions": [
+            "sus2"
+        ],
         "notes_chord": [
             "B5",
             "Db5",
@@ -8643,6 +10290,10 @@
     {
         "key_chord": "B",
         "extensions": [
+            "13",
+            "b9"
+        ],
+        "readable_extensions": [
             "13",
             "b9"
         ],
@@ -8666,6 +10317,11 @@
     {
         "key_chord": "B",
         "extensions": [
+            "13",
+            "b9",
+            "b5"
+        ],
+        "readable_extensions": [
             "13",
             "b9",
             "b5"
