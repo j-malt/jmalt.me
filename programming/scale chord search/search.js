@@ -4,22 +4,19 @@ var chords;
 
 $.ajax({
   async: false,
-  url: "./data/scales.json",
+  url: "./scale chord search/data/scales.json",
   success: (data) => (scales = data),
 });
 $.ajax({
   async: false,
-  url: "./data/chords.json",
+  url: "./scale chord search/data/chords.json",
   success: (data) => (chords = data),
 });
-
-const data = { ...chords, ...scales };
-
 function collapseObject(obj) {
   var res = "";
   for (const key of Object.keys(obj)) {
     var val = obj[key];
-    // This is a *bad* way of doing this, but it works. 
+    // This is a *bad* way of doing this, but it works.
     if (
       key == "notes_chord" ||
       key == "notes_scale" ||
@@ -53,10 +50,31 @@ function searchEngine(searchString, searchData) {
   return result;
 }
 
+$("input[type=radio][name=select]").change(() => {
+  var searchField = $("input[name=select]:checked").val();
+  if (searchField == "scales") {
+    $("#searchText").attr("placeholder", "Search for a scale...");
+  } else {
+    $("#searchText").attr("placeholder", "Search for a chord...");
+  }
+  searchTrigger();
+});
+
 $("#searchText, #searchField").on("change paste keyup", () => {
+  searchTrigger();
+});
+
+function searchTrigger() {
+  console.log($("#searchText").val());
+  if ($("#searchText").val() == null) {
+    console.log("lblbl");
+    return;
+  }
+
   var searchText = $("#searchText").val().toLowerCase();
-  var searchField = $("#searchField").val();
+  var searchField = $("input[name=select]:checked").val();
   var searchResult;
+
   if (searchField == "scales") {
     var scaleSource = $("#scaleTemplate");
     var scalesTemplate = Handlebars.compile(scaleSource.html());
@@ -68,4 +86,4 @@ $("#searchText, #searchField").on("change paste keyup", () => {
     searchResult = searchEngine(searchText, chords);
     $("#output").html(chordTemplate(searchResult));
   }
-});
+}

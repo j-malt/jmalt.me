@@ -1,92 +1,94 @@
 <!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./scale chord search/music_search.css" /></link>
+        <link rel="stylesheet" href="../main.css"/>
+        <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Space+Mono&display=swap" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156483611-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'UA-156483611-1');
+        </script>
 
-<head>
-    <link rel="stylesheet" href="../../main.css" />
-    <link rel="stylesheet" href="music_search.css"/></link>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156483611-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+        <meta name="description" content="Jesse Maltese" />
+        <meta name="keywords"
+            content="Maltese, Jesse, Jesse Maltese, jmalt, jma, j-malt Toronto, UofT, UTSC, Computer, Science, Computer Science, Math, Mathematics" />
+        <meta name="author" content="Jesse Maltese" />
+        <meta charset="UTF-8" />
 
-        gtag('config', 'UA-156483611-1');
-    </script>
+        <link rel='icon' href='../../assets/favicon.ico' type='image/x-icon' />
 
-    <meta name="description" content="Jesse Maltese" />
-    <meta name="keywords"
-        content="Maltese, Jesse, Jesse Maltese, jmalt, jma, j-malt Toronto, UofT, UTSC, Computer, Science, Computer Science, Math, Mathematics" />
-    <meta name="author" content="Jesse Maltese" />
-    <meta charset="UTF-8" />
+        <title>jmalt - chord + scale search</title>
+    </head>
 
-    <link rel='icon' href='../../assets/favicon.ico' type='image/x-icon' />
-
-    <title>jmalt - chord + scale search</title>
-</head>
-
-<body>
-    <div id="wrapper">
-        <div class='header'>
-            <a class='no-float-link' id='header' href='../../index'>
-                <h1>j<span class='imp'>malt</span></h1>
-            </a>
-
-        </div>
-        <div class='nav'>
-            <ul>
-                <li><a href='../../index' class='nav-link'>about</a></li>
-                <li><a href='../../resume' class='nav-link'>resume</a></li>
-                <li><a href='../../projects' class='nav-link'>projects</a></li>
-                <li><a href='../../writing' class='nav-link'>writing</a></li>
-            </ul>
-        </div>
-        <br /><br />
-        Note: This is a work-in-progress. Notably, it's almost unusable on mobile. Sorry!
-        <form autocomplete="off">
-            <label>
-                <input id="searchText" type="text" placeholder="Search">
-            </label>
-            <label>Search by:
-                <select id="searchField">
-                    <option value="scales">Scales</option>
-                    <option value="chords">Chords</option>
-                </select>
-            </label>
-        </form>
-        <script id="scaleTemplate" type="text/x-handlebars-template">
-                {{#each this}}
-                <tr>
-                    <td><h1>{{name_scale}}</h1></td>
-                    <td><h2>{{notes_scale}}</h2></td>
-                </tr>
-                {{/each}}
-            </script>
-        <script id="chordTemplate" type="text/x-handlebars-template">
-                {{#each this}}
-                <div data-chord="{{key_scale}}"> 
-                    <tr>
-                        <td><h1>{{key_chord}}{{#each extensions}}{{this}}{{/each}}</h1></td>
-                        <td><h2>{{#each notes_chord_noOctave}} {{ this }} {{/each}}</h2></td>
-                    </tr>
+    <body>
+            <div class='content'>
+                <div class='header'>
+                    <a class='no-float-link' id='header' href='../../index'>
+                        <h1>j<span class='imp'>malt</span> | chord + scale search</h1>
+                    </a>
+                    
                 </div>
-                {{/each}}
-            </script>
+                <div class='nav'>
+                    <ul>
+                        <li><a href='../../index' class='nav-link'>about</a></li>
+                        <li><a href='../../resume' class='nav-link'>resume</a></li>
+                        <li><a href='../../projects' class='active'>projects</a>
+                        <li><a href='../../writing' class='nav-link'>writing</a></li>
+                    </ul>
+                </div>
+                <br />
+            <form autocomplete="off">
+                <div class="select">
+                    <input type="radio" class="searchType" id="scales" name="select" value="scales" checked>
+                    <label for="scales">Scales</label>
+                    <input type="radio" class="searchType" id="chords" name="select" value="chords">
+                    <label for="chords">Chords</label>
+                </div>
+                <label>
+                    <input id="searchText" type="text" placeholder="Search for a scale...">
+                </label>
+               <br/>
+                
+            </form>
+            <script id="scaleTemplate" type="text/x-handlebars-template">
+                    {{#each this}}
+                    <tr>
+                        <td><h1>{{name_scale}}</h1></td>
+                        <td><h2>{{notes_scale}}</h2></td>
+                    </tr>
+                    {{/each}}
+                </script>
+            <script id="chordTemplate" type="text/x-handlebars-template">
+                    {{#each this}}
+                    <div data-chord="{{key_scale}}"> 
+                        <tr>
+                            <td><h1>{{key_chord}}{{#each extensions}}{{this}}{{/each}}</h1></td>
+                            <td><h2>{{#each notes_chord_noOctave}} {{ this }} {{/each}}</h2></td>
+                        </tr>
+                    </div>
+                    {{/each}}
+                </script>
 
 
 
-        <div class="row">
-            <table id="output"></table>
+            <div class="row">
+                <table id="output"></table>
+            </div>
+
+            <!-- Needs to go at the bottom so the template can load! -->
+            <script type="text/javascript"
+                src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js"></script>
+            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+            <script type="text/javascript"
+                src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js"></script>
+            <script type="text/javascript"
+                src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
+            <script type="text/javascript" src="./scale chord search/search.js"></script>
         </div>
-
-        <!-- Needs to go at the bottom so the template can load! -->
-        <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js"></script>
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-        <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js"></script>
-        <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
-        <script type="text/javascript" src="search.js"></script>
-    </div>
-</body>
+    </body>
+</html>
