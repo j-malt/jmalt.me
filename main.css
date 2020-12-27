@@ -14,7 +14,13 @@ body {
     color: #95d3ff;
 }
 
+
 hr {
+    /* hmm */
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-top: 1px solid #FFF7E8;
     width: 50vw;
     position: absolute;
 }
