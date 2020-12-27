@@ -50,6 +50,8 @@ function searchEngine(searchString, searchData) {
   return result;
 }
 
+$(() => searchTrigger()); 
+
 $("input[type=radio][name=select]").change(() => {
   var searchField = $("input[name=select]:checked").val();
   if (searchField == "scales") {
