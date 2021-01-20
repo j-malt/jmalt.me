@@ -87,10 +87,51 @@ li {
     width: 20vw;
 }
 
-@media only screen and (max-width: 600px) {
+
+/* Definitely a better way of doing this... */
+
+@media screen and (max-width: 1500px) {
     .nav { 
         width: 20vw;
-        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .nav { 
+        width: 30vw;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .nav { 
+        width: 40vw;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .nav { 
+        width: 50vw;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .nav { 
+        width: 60vw;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .nav { 
+        width: 70vw;
+    }
+}
+@media screen and (max-width: 500px) {
+    .nav { 
+        width: 80vw;
+    }
+}
+@media screen and (max-width: 500px) {
+    .nav { 
         width: 90vw;
     }
 }
