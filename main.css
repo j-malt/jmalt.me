@@ -144,3 +144,17 @@ iframe {
         height: 30vh;
     }
 }
+
+
+/*========== WRITING =============*/
+
+.quote {
+    padding-left: 5%;
+}
+
+.math {
+    font-family: serif;
+}
+
+.par-text {
+}

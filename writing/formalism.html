@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel='stylesheet' href='../main.css'>
+    </link>
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Space+Mono&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jmalt - writing</title>
+    <meta name="description" content="Jesse Maltese - Developer" />
+    <meta name="keywords"
+        content="Maltese, Jesse, Jesse Maltese, jmalt, jma, j-malt Toronto, UofT, UTSC, Computer, Science, Computer Science" />
+    <meta name="author" content="Jesse Maltese" />
+    <meta charset="UTF-8" />
+
+    <link rel='icon' href='../assets/favicon.ico' type='image/x-icon' />
+</head>
+
+
+<body>
+    <div class='content'>
+        <div class='header'>
+            <a class='no-float-link' id='header' href='./index'>
+                <h1>j<span class='imp'>malt</span></h1>
+            </a>
+
+        </div>
+        <div class='nav'>
+            <ul>
+                <li><a href='./index' class='nav-link'>about</a></li>
+                <li><a href='./resume' class='nav-link'>resume</a></li>
+                <li><a href='./projects' class='nav-link'>projects</a></li>
+                <li><a href='./writing' class='active'>writing</a></li>
+            </ul>
+        </div>
+        <br />
+
+        <div style="width: 60%; font-family: 'Inconsolata', monospace; font-size: 1.1em;" class='body-content'>
+            <div class='section-header'>Frege Against the Formalists</div>
+            <i>Jesse Maltese</i><br>
+            <i style='font-size: 90%'>This was written for a Philosophy of Mathematics course at the University of Toronto.</i>
+            <br/>
+            <div style="padding-left: 2%; line-height: 1.5">
+                <p class='par-text'> Early formalism can be characterized as an attempt to sidestep the many
+                ontological and metaphysical difficulties that arise in other philosophies of mathematics.
+                Early formalism can be broadly divided into two positions, that of the term
+                formalist, and that of the game formalist. Where the game formalist "seeks to banish
+                all semantic notions from mathematics", the term formalist attempts to "reduce any
+                such notions to purely syntactic ones" (Linnebo, 2017, p. 73). We will first briefly
+                walk through the ideas of the early formalists and present the ideas of their
+                most notable opponent, before concluding with a look at a slightly more modern take on formalism.</p>
+                
+                <p class='par-text'> The view of the term formalist is that singular terms in mathematical
+                expressions refer to themselves rather than the numbers they denote.
+                The upshot of this is that we then have no reason to doubt the existence
+                of a number whatsoever, since once we write a symbol we have no reason to doubt
+                the existence of the symbol. So, finally we have no reason to doubt what the symbol
+                denotes. Thus we can assert that numbers exist with absolute confidence.</p>
+                
+                <p class='par-text'> Now, the term formalist seeks to define functional symbols of arithmetic, such as
+                '+' or '✕'. We define these based on rewrite rules<sup>1</sup>. These rewrite rules allow
+                us to give mathematical formulas meaning. For example, we can show that '<span class='math'>5 + 5 = 10</span>'
+                by showing that we can reduce '<span class='math'>5 + 5</span>' to '<span class='math'></span>10</span>' via our rewrite rules. 
+                We can generalize this to say that the truth of an arithmetical expression, say '<span class='math'>a = b</span>', is really just the ability to
+                transform (via rewrite rules) one term into the other.</p>
+                
+                <p class='par-text'> Where the term formalist seeks to reduce semantics notions within mathematics,
+                the game formalist seeks to eliminate them entirely. This
+                view distinguishes itself from term formalism by claiming that arithmetic is not
+                a theory of symbols, but rather a game of manipulations played with such symbols.
+                The game formalist sees mathematics as a game, similar to chess, that we play with
+                empty syntactical expressions. This means that numbers are meaningless within the
+                game, beyond the properties assigned to them with respect to the rules of the game.
+                A parallel can be drawn with chess, where pieces on a board have no meaning beyond
+                the rules that we assign to them that dictate their behaviour within the game.
+                
+                <p class='par-text'> The flavour of formalism peddled by the early school of formalists is not
+                one that was popularized by its proponents, but rather by its opponents. The
+                most notable work on early formalism is a take-down job by the great Gottlob Frege in
+                <i>The Foundations of Arithmetic</i> (1903). In it, he attacks two notable defendants
+                of early formalism: game formalist J. Thomae and term formalist E. Heine. Frege outlines three main points in his
+                criticism of Thomae and Heine in <i>The Foundations of Arithmetic</i>.
+                These are: (i) Arithmetic has applications that cannot be justified if we consider it to be
+                'empty'; (ii) Thomae blurs the line between the 'formal arithmetic/game'
+                and the metatheory of the game; and (iii) Neither Heine nor Thomae are able to offer an explanation
+                of infinity within their theories. We will now detail Frege's criticisms of Thomae
+                and Heine before finally turning to Haskell Curry's version of formalism to see how it
+                stands up against Frege.
+                
+                <p class='par-text'>The applicability of arithmetic is one that Frege hones in on as a particular
+                weak spot of Thomae's game formalist argument.
+                <p class='quote'>
+                Why can no application be made of a configuration of chess pieces? Obviously,
+                because it expresses no thought.... Why can arithmetical equations be applied?
+                Only because they express thoughts.... Now, it is applicability alone which
+                elevates arithmetic from a game to the rank of a science. So applicability
+                necessarily belongs to it. (<i>Frege Against The Formalists</i>, Sec. 91)
+                </p>
+                Let us first examine what applicability means in this context. M. Resnik makes the claim
+                that Frege is speaking of "inferential applications", let us proceed with this
+                assumption. In this context, "inferential applications" is taken to mean
+                chains of reasoning that allow us to conclude some truth, where that truth has
+                some analogy to reality. Take the example provided by Resnik (p. 62), where
+                we begin with some knowledge: "A 10 foot by 6 foot floor" and "area in square feet equals length in feet times width in
+                feet",
+                which allows us to conclude that (1) '<span class='math'>10 ✕ 6 = 60</span>', and so (2) 'area in square feet = <span class='math'>60</span>'.
+                This is an example of applying arithmetic wherein we are expressing a true statement, <span class='math'>10 ✕ 6 = 60</span>,
+                that has analogy to reality, the reality being that a 10 by 6 floor has an area of 60 square feet.
+                But in Thomae's conception, our concluding equation is <i>empty</i>. How can <span class='math'>10 ✕ 6 = 60</span> be both empty and have
+                an analogy to reality?
+                
+                It is clear there's an issue here. If Thomae wants his expressions to
+                be empty, he cannot allow them to be empirically verifiable. For, if this were the case,
+                it is clear that there is some meaningful arithmetic being supposed within Thomae's
+                system. But analogy is inescapable, because as Frege says, "applicability necessarily
+                belongs to [arithmetic]" (Frege, Sec. 91).</p>
+                
+                <p class='par-text'> Thomae's game formalism, at various points, appears to suffer from lack of
+                clarity. The place that Frege sees the most issue is within the
+                lack of distinction between the game of mathematics and the <i>theory</i> of the game of
+                mathematics (or the "metatheory"). Frege accuses Thomae of presupposing meaningful
+                arithmetic in his formal arithmetic. Thomae lists a handful of rules
+                for his arithmetic, including commutativity, associativity, and so forth. But this
+                does not make sense, says Frege. By listing a rule, such as <span class='math'>a + a' = a' + a</span>,
+                we encounter many questions. The first for Frege is whether we are to treat each symbol
+                as a sign or only as "figures", as Frege calls them. For, if we treat them as mere figures,
+                stating such a rule is equivalent to showing a chess position to someone with no knowledge
+                of the game in order to explain a rule of chess. If, on the other hand, we treat
+                symbols as referential signs, we end up with a rule of meaningful arithmetic, rather
+                than a formal expression! And so, Thomae's formal arithmetic is not a formal arithmetic
+                at all.</p>
+                
+                <p class='par-text'> A final simple, but important, retort is that of infinity. Frege makes a
+                "homely objection":
+                <p class='quote'>
+                    In order to produce [an infinite series] we would need an infinitely
+                    long blackboard, an infinite supply of chalk, and an infinite length of
+                    time. (Frege, 1903, Sec. 124)
+                </p>
+                Heine's theory does not have a strong defense against this argument, Frege
+                claims that Heine is victim of a "curious fate: the tangibility of numbers" (ibid. Sec. 124).
+                For, if numbers are taken to exist only by their tangibility, how can we claim that
+                any irrational number exists? On the other hand, Thomae provides a slightly more sophisticated approach
+                to the issue of infinities, providing a rule by which to call a sequence infinite.
+                But Frege still finds flaw with this, because Thomae relies upon the notion of a
+                sequence <i>possibly</i> being continued indefinitely. But of course it is not possible
+                for humans to inscribe symbols indefinitely. Neither Heine nor Thomae can coherently
+                explain infinities within their conception. This is a major flaw. Frege concludes
+                that defining such notions based on human capacities is a futile endeavour.</p>
+                
+                <p class='par-text'>In contrast to the game and term formalism of Thomae and Heine, Haskell
+                Curry's formal systems, presented in <i>Outlines of a Formalist Philosophy of
+                Mathematics</i>(1951), offer a possible way out of the many problems concerning Thomae
+                and Heine. Although, Curry's formalism is not completely free of issues and raises
+                some important ontological questions that Curry shies away from answering in his
+                thesis. We will first discuss whether Curry's formalism is able to withstand the
+                arguments presented by Frege against Thomae and Heine before turning to the broader
+                ontological questions posed by Resnik in <i>Frege and the Philosophy of Mathematics</i> (1980).</p>
+                
+                
+                <p class='par-text'> The major advantage to Curry's theories as opposed to Thomae and Heine's, and one that Resnik immediately points
+                out is the "precision with which [Curry] formulates his theory" (ibid., p. 69). Resnik provides
+                a laundry list of advantages to Curry's formalism over the early formalists, but chief among them
+                are the lack of reliance on contentful mathematics, the preservation of meaning within
+                mathematics, and a clear definition of truth. One will note that
+                Curry's formalism also allows us to sidestep the question of infinity that Frege presented
+                the early formalists simply by defining the notion of an infinite sequence as internal to some theory.
+                As well, since Curry preserves the "meaning of mathematics", he is able to avoid
+                questions posed by Frege concerning 'applicability'. So, it seems that Curry's
+                formalism does a very good job avoiding issues pointed out by Frege some 50 years
+                earlier. One may look to developments in metamathematics between Frege's writings
+                and Curry's thesis as a reason for the apparent fortitude of Curry's work. But,
+                Curry's formalism is not without flaws, and in fact, there is an important ontological
+                question that I think discounts Curry's formalism as a viable philosophy of mathematics.</p>
+                
+                <p class='par-text'>Curry was rather dismissive with regards to the ontological
+                questions concerning his brand of formalism.
+                <p class='quote'>
+                    It is unnecessary to inquire further into the meaning of a formal system.
+                    It is characteristic of mathematics that it considers only certain essential
+                    properties of its objects, regarding others as irrelevant. One of these irrelevant questions
+                    is that of the ontology of a formal system. The question of which representation
+                    is the real or essential one is a metaphysical matter with which mathematics
+                    has no concern. (Curry, 1951, 30 - 31)
+                </p>
+                But in fact, a major flaw of Curry's system quickly becomes evident when one begins asking such questions.
+                At the core of Curry's theory is the idea that mathematicians are doing no more
+                than showing certain propositions are true in certain formal systems. But this quickly raises
+                the question, by what logic "such and such is a theorem of such and such
+                formal system" (Resnik, p. 65)? Or, more precisely, in what logical system are we able to claim
+                that "formal system X proves proposition Y"? Curry doesn't commit to a clear
+                ontology here, and in fact goes so far as to call any ontological commitment "irrelevant".
+                This allows us to claim that the logic by which we claim "B proves C" is <i>also</i> a formal system!
+                Now, we have the claim that "system A proves system B proves C".
+                It is no big leap to see that we will quickly end up with infinitely many "metatheories" proving
+                claims about other metatheories with this logic. This seems like an issue, for if all we have is infinitely many
+                metatheories, any proof is really just a formal deduction within some metatheory. Curry has not provided
+                any reasoning for us to believe that we can derive any real truth from our formal systems.
+                The fact that Curry doesn't present a resolution, and goes so far as to dismiss such questions as irrelevant,
+                should be quite distressing<sup>2</sup>.</p>
+                
+                <p class='par-text'>It is clear that while some brands of formalism are able to
+                avoid some metaphysical, ontological, and other difficulties that are common in other
+                sorts of philosophies of mathematics, they are definitely not without flaw. Both
+                game and term formalism received quite a severe take down from Frege. And while
+                Curry's work seemed to avoid Frege's criticisms, it is not without it's own issues.
+                To me, formalism still seems like a interesting and useful philosophy, and while more attractive
+                philosophies such as game formalism are fraught with problems, one may wonder
+                whether there is a variety of formalism that could serve as a viable philosophy
+                of mathematics.</p>
+                <span style='font-size: 90%'><sup>1</sup>These rewrite rules can be found in Linnebo, 2017, p.74</span>
+                <br>
+                <span style='font-size: 90%'><sup>2</sup> I will briefly add that Curry provided something of a response to the final 
+                    criticisms presented here in the brief note <i>Remarks On The Definition and Nature of Mathematics</i>.
+                    As far as I am concerned, this article does nothing to refute any of the points made here, or by any of
+                    Curry's critics. Curry does not discuss truth in any meaningful way, and I believe <i>acceptability</i> is 
+                    a cop-out to dealing with issues of truth. As such, his article does not resolve any issues originally discussed.
+                </span>
+            </div>
+            <br>
+        </div>
+        <br />
+        <hr />
+        <footer>
+            <p style='font-size: .8em'>Jesse Maltese - 2021<br />
+                You can find me on <a style="color:#FFF7E8" rel="noopener noreferrer" target="_blank"
+                    href='https://github.com/j-malt'>Github</a>, <a style="color:#FFF7E8" rel="noopener noreferrer"
+                    target="_blank" href='https://www.linkedin.com/in/jesse-maltese-50241b195/'>LinkedIn</a>, or <a
+                    style="color:#FFF7E8" rel="noopener noreferrer" target="_blank"
+                    href='mailto:jesse.maltese@mail.utoronto.ca'>Email Me!</a></p>
+
+        </footer>
+    </div>
+</body>
+
+</html>
