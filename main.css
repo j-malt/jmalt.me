@@ -149,12 +149,11 @@ iframe {
 /*========== WRITING =============*/
 
 .quote {
-    padding-left: 5%;
+    border-left: 2px solid white;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 
 .math {
     font-family: serif;
-}
-
-.par-text {
 }
