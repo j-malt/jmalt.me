@@ -149,11 +149,23 @@ iframe {
 /*========== WRITING =============*/
 
 .quote {
-    border-left: 2px solid white;
+    border-left: 2px solid white    ;
     margin-left: 5%;
     padding-left: 2%;
 }
 
 .math {
     font-family: serif;
+}
+
+.writing {
+    width: 60vw;
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.3em;
+}
+
+@media screen and (max-width: 700px) {
+    .writing {
+        width: 90vw;
+    }
 }
