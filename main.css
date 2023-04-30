@@ -1,7 +1,9 @@
+/* TODO: Upgrade to SASS. This is annoying to update. 
+
 /*========== GENERAL/HOME =============*/
 body {
     background-color: #1f1f1f ;
-    color: #FFF7E8; /*This color is called Cosmic Latte, haha*/
+    color: #FFF7E8; /*This color is called Cosmic Latte, neat*/
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -11,7 +13,7 @@ body {
 }
     
 .imp {
-    color: #95d3ff;
+    color: #feae79;
 }
 
 
@@ -32,7 +34,7 @@ hr {
 }
 
 a {
-    color: #95d3ff;
+    color: #feae79;
     display:inline-block
 }
 
@@ -87,55 +89,6 @@ li {
     width: 20vw;
 }
 
-
-/* Definitely a better way of doing this... */
-
-@media screen and (max-width: 1500px) {
-    .nav { 
-        width: 20vw;
-    }
-}
-
-@media screen and (max-width: 1400px) {
-    .nav { 
-        width: 30vw;
-    }
-}
-
-@media screen and (max-width: 1000px) {
-    .nav { 
-        width: 40vw;
-    }
-}
-
-@media screen and (max-width: 710px) {
-    .nav { 
-        width: 50vw;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .nav { 
-        width: 60vw;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    .nav { 
-        width: 70vw;
-    }
-}
-@media screen and (max-width: 500px) {
-    .nav { 
-        width: 80vw;
-    }
-}
-@media screen and (max-width: 500px) {
-    .nav { 
-        width: 90vw;
-    }
-}
-
 .nav-link {
     color: #fcddb5;
     text-decoration: none;
@@ -143,79 +96,69 @@ li {
 
 .active {
     text-decoration: none;
-    color: #95d3ff;
+    color: #feae79;
 }
 
+/* Definitely a better way of doing this... */
 
-
-
-
-/*========== RESUME =============*/
-
-.resume-section {
-    font-size: .9em;
-    margin-left: 2vw;
-}
-
-.section-header {
-    font-family: 'Space Mono', monospace;
-    font-size: 1.5em;
-    color: #fcddb5;
-}
-
-.res-imp {
-    font-size: 1.15em;
-    color: #95d3ff;
-}
-
-/*========== PROJECTS =============*/
-
-.project-content {
-    margin-left: 2vw;
-}
-iframe {
-
-    width: 560px;
-    height: 315px;
-}
-
-@media only screen and (max-width: 600px) {
-    iframe {
-        width: 80vw;
-        height: 30vh;
+@media screen and (max-width: 1500px) {
+    .nav { 
+        width: 10vw;
+    }
+    .content {
+        width: 55vw;
     }
 }
 
-
-/*========== WRITING =============*/
-
-.quote {
-    border-left: 2px solid white    ;
-    margin-left: 5%;
-    padding-left: 2%;
+@media screen and (max-width: 1400px) {
+    .nav { 
+        width: 15vw;
+    }
 }
 
-.math {
-    font-family: serif;
+@media screen and (max-width: 1000px) {
+    .nav { 
+        width: 20vw;
+    }
 }
 
-.writing-home {
-    width: 40vw;
+@media screen and (max-width: 710px) {
+    .nav { 
+        width: 25vw;
+    }
 }
 
-@media screen and (max-width: 700px) {
-    .writing-home {
+@media screen and (max-width: 600px) {
+    .nav { 
+        width: 30vw;
+    }
+    .content {
+        width: 60vw;
+    } 
+}
+
+@media screen and (max-width: 500px) {
+    .nav { 
+        width: 35vw;
+    }
+    .content {
         width: 70vw;
     }
 }
-
-
-.writing {
-    width: 60vw;
+@media screen and (max-width: 500px) {
+    .nav { 
+        width: 40vw;
+    }
+    .content {
+        width: 80vw;
+    }
 }
-
-@media screen and (max-width: 700px) {
-    .writing {
+@media screen and (max-width: 500px) {
+    .nav { 
+        width: 45vw;
+    }
+    .content {
         width: 90vw;
     }
 }
+
