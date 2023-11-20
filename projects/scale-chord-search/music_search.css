@@ -41,26 +41,34 @@ input:focus {
     outline: thin dotted;
 }
 
-input[type='radio'] {
-    accent-color: var(--highlight-text-color);
+
+
+
+.radio input {
+    visibility: hidden;
+    width: 0;
 }
+
+.radio label:hover {
+    color: var(--secondary-highlight-text-color)
+}
+
+.radio input:checked+label {
+    font-weight: bold;
+    color: var(--highlight-text-color)
+}
+
 
 .select {
     font-size: 1.65rem;
     padding-bottom: 5px;
+    width: 65%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
-
-
-[type="radio"] {
-    vertical-align: baseline;
-    margin-right: -5px;
-    display: inline;
-    width: 1rem;
-    height: 1rem;
-    padding-top: 5px;
-    padding-left: 5px;
-}
 
 table {
     border-collapse: collapse;
@@ -86,12 +94,23 @@ tr {
     padding: 0;
 }
 
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 992px) {
+    .content {
+        max-width: 80vw;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
 
-    table,
-    #searchText,
-    form {
-        max-width: 90vw;
+    label {
+        font-size: 2em;
+    }
+
+    .scale-notes {
+        text-align: center;
+    }
+
+    #searchText {
+        font-size: 1em;
     }
 }
 
