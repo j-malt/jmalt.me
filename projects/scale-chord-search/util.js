@@ -5,6 +5,20 @@ function search(array, searchTerm) {
   return array.filter(item => regex.test(item));
 }
 
+function getNote(input) {
+  if (typeof input !== 'string' || input.length < 1) return ''
+
+  // No double flats or double charts b/c I do not believe in them.
+  const match = input.match(/^([a-g](#|b)?)(.*)/i);
+
+  if (match && match.length >= 3) {
+    const rest = input.slice(match[1].length);
+    return [match[1], rest.trim()];
+  } else {
+    return ['', ''];
+  }
+}
+
 // note: teoria.Note
 function formatNote(note) {
   const noteName = note.toString(true).toUpperCase();
