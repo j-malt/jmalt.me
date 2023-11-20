@@ -1,164 +1,174 @@
-/* TODO: Upgrade to SASS. This is annoying to update. 
+/*  Global Variables  */
+:root {
+  --main-bg-color: #0D1117;
+  --main-text-color: #ded9cf;
+  --secondary-text-color: #96938c;
+  /* "Cosmic Latte" */
+  --highlight-text-color: #fa873b;
+  --secondary-highlight-text-color: #fccd8f;
+}
 
-/*========== GENERAL/HOME =============*/
-body {
-    background-color: #1f1f1f ;
-    color: #FFF7E8; /*This color is called Cosmic Latte, neat*/
-    font-family: 'Courier New', Courier, monospace;
+/*  General Styles  */
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
+  font-family: 'Inconsolata', monospace;
+  font-size: 1.15em;
+  overflow: auto;
 }
 
 .content {
-    margin: 3.5vw;
-    padding: none;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: 50vw;
+  margin: auto;
 }
-    
+
+.content ul {
+  list-style-type: '- ';
+}
+
 .imp {
-    color: #feae79;
+  color: var(--highlight-text-color);
 }
 
-
-hr {
-    /* hmm */
-    border-left: none;
-    border-right: none;
-    border-bottom: none;
-    border-top: 1px solid #FFF7E8;
-    width: 50vw;
-    position: absolute;
+.hr-header {
+  border: none;
+  border-top: 1px solid var(--main-text-color);
+  width: 100%;
 }
 
-#header {
-    color:#FFF7E8;
-    text-decoration: none;
-    font-family: 'IBM Plex Mono', monospace;
+.hr-footer {
+  border: none;
+  border-top: 1px solid var(--main-text-color);
+  width: 100%;
+  margin-top: 1rem;
 }
+
 
 a {
-    color: #feae79;
-    display:inline-block
+  color: var(--highlight-text-color);
+  display: inline-block;
 }
 
 .img-link {
-    color: transparent !important;
+  color: transparent !important;
 }
 
-.no-float-link {
-    display: inline;
-}
 
 a:hover {
-    -ms-transform: translateY(-1.5px);
-    -webkit-transform: translateY(-1.5px); 
-    transform: translateY(-1.5px);
-    transition-duration: 0.05s;
+  -ms-transform: translateY(-1.5px);
+  -webkit-transform: translateY(-1.5px);
+  transform: translateY(-1.5px);
+  transition-duration: 0.05s;
 }
 
-
 h1 {
-    font-weight: 400;
+  font-weight: 400;
 }
 
 img {
-    max-width: 350px;
-    max-height: 350px;
+  max-width: 350px;
+  max-height: 350px;
 }
 
 @media only screen and (max-width: 600px) {
-    img {
-		height: 15vh;
-	}
+  img {
+    height: 15vh;
+  }
 }
 
-/*========== NAV =============*/
+/*  Header  */
 
-ul {
-    margin: 0;
-    padding: 0;
+.header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 10px;
 }
 
-li {
-    display: inline;
-    padding: 0;
-    margin: 0;
-    font-family: 'Space Mono', monospace;
+.logo-nav-container {
+  display: flex;
+  align-items: end;
+  width: 100%;
 }
 
-.nav { 
-    border-bottom: 1px solid #FFF7E8;
-    padding-bottom: 1vw;
-    width: 20vw;
+.no-float-link {
+  display: inline;
+}
+
+#logo {
+  margin-right: auto;
+  color: var(--main-text-color);
+  text-decoration: none;
+}
+
+.nav {
+  margin-left: auto;
+}
+
+.nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline;
+  padding: 0;
+  margin: 0;
 }
 
 .nav-link {
-    color: #fcddb5;
-    text-decoration: none;
+  color: var(--secondary-highlight-text-color);
+  text-decoration: none;
 }
 
 .active {
-    text-decoration: none;
-    color: #feae79;
+  text-decoration: none;
+  color: var(--highlight-text-color);
 }
 
-/* Definitely a better way of doing this... */
 
-@media screen and (max-width: 1500px) {
-    .nav { 
-        width: 10vw;
-    }
-    .content {
-        width: 55vw;
-    }
+/*  Footer */
+footer {
+  opacity: 70%;
 }
 
-@media screen and (max-width: 1400px) {
-    .nav { 
-        width: 15vw;
-    }
+/*  Media Queries  */
+@media screen and (max-width: 992px) {
+  .content {
+    width: 80vw;
+  }
 }
 
-@media screen and (max-width: 1000px) {
-    .nav { 
-        width: 20vw;
-    }
+@media screen and (max-width: 768px) {
+  .nav {
+    width: 25vw;
+  }
 }
 
-@media screen and (max-width: 710px) {
-    .nav { 
-        width: 25vw;
-    }
+@media screen and (max-width: 576px) {
+  .nav {
+    width: 30vw;
+  }
 }
 
-@media screen and (max-width: 600px) {
-    .nav { 
-        width: 30vw;
-    }
-    .content {
-        width: 60vw;
-    } 
-}
+@media screen and (max-width: 480px) {
+  .nav {
+    width: 35vw;
+  }
 
-@media screen and (max-width: 500px) {
-    .nav { 
-        width: 35vw;
-    }
-    .content {
-        width: 70vw;
-    }
+  .content {
+    margin: 5px;
+    /* Reduce margin for very small screens */
+    padding: 5px;
+    /* Reduce padding */
+  }
 }
-@media screen and (max-width: 500px) {
-    .nav { 
-        width: 40vw;
-    }
-    .content {
-        width: 80vw;
-    }
-}
-@media screen and (max-width: 500px) {
-    .nav { 
-        width: 45vw;
-    }
-    .content {
-        width: 90vw;
-    }
-}
-

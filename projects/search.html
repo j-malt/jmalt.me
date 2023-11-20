@@ -2,105 +2,102 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="./scale chord search/music_search.css" />
-    </link>
+    <script type="text/javascript" src="./scale-chord-search/teoria.min.js"></script>
+
     <link rel="stylesheet" href="../main.css" />
-    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Space+Mono&display=swap" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156483611-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'UA-156483611-1');
-    </script>
+    <link rel="stylesheet" href="./scale-chord-search/music_search.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
+
 
     <meta name="description" content="Jesse Maltese - Chord + Scale Search" />
+    <meta name="author" content="Jesse Maltese" />
     <meta charset="UTF-8" />
 
-    <link rel='icon' href='../assets/favicon.ico' type='image/x-icon' />
+    <link rel="icon" href="../assets/favicon.ico" type="image/x-icon" />
 
     <title>jmalt - chord + scale search</title>
 </head>
 
 <body>
-    <div class='content'>
-        <div class='header'>
-            <a class='no-float-link' id='header' href='./index'>
-                <h1>j<span class='imp'>malt</span></h1>
-            </a>
-
+    <div class="content">
+        <div class="header">
+            <div class="logo-nav-container">
+                <a class="no-float-link" id="logo" href="./index">
+                    <h1 style="margin-bottom: 0">j<span class="imp" role="text">malt</span></h1>
+                </a>
+                <div class="nav">
+                    <ul>
+                        <li><a href="./index" class="nav-link">about</a></li>
+                        <li><a href="./assets/j-malt-resume.pdf" class="nav-link"
+                                target="_blank">resume</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
-        <div class='nav'>
-            <ul>
-                <li><a href='./index'>about</a></li>
-                <li><a href='./assets/j-malt-resume.pdf' class='nav-link'>resume</a></li>
+        <hr class="hr-header" role="separator">
 
-            </ul>
-        </div>
-        <br />
         <form autocomplete="off">
             <div class="select">
-                <input type="radio" class="searchType" id="scales" name="select" value="scales" checked>
+                <input type="radio" class="searchType" id="scales" name="select" value="scales"
+                    checked>
                 <label for="scales">Scales</label>
                 <input type="radio" class="searchType" id="chords" name="select" value="chords">
                 <label for="chords">Chords</label>
             </div>
-            <label>
-                <input id="searchText" type="text" placeholder="Search for a scale...">
-            </label>
+            <input id="searchText" type="text" placeholder="Search for a scale...">
             <br />
-
         </form>
         <script id="scaleTemplate" type="text/x-handlebars-template">
-                    {{#each this}}
-                    <tr>
-                        <td><h1>{{name_scale}}</h1></td>
-                        <td><h2>{{notes_scale}}</h2></td>
-                    </tr>
-                    {{/each}}
-                </script>
+            {{#each this}}
+            <tr>
+                <td><h1>{{name_scale}}</h1></td>
+                <td><h2>{{notes_scale}}</h2></td>
+            </tr>
+            {{/each}}
+        </script>
         <script id="chordTemplate" type="text/x-handlebars-template">
-                    {{#each this}}
-                    <div data-chord="{{key_scale}}"> 
-                        <tr>
-                            <td><h1>{{key_chord}}{{#each extensions}}{{this}}{{/each}}</h1></td>
-                            <td><h2>{{#each notes_chord_noOctave}} {{ this }} {{/each}}</h2></td>
-                        </tr>
-                    </div>
-                    {{/each}}
-                </script>
+            {{#each this}}
+            <div data-chord="{{key_scale}}">
+                <tr>
+                    <td><h1>{{name_chord}}</h1></td>
+                    <td><h2>{{notes_chord}}</h2></td>
+                </tr>
+            </div>
+            {{/each}}
+        </script>
 
 
 
         <div class="row">
             <table id="output"></table>
         </div>
-        <br /><br />
-        <hr />
+        <hr class="hr-footer" role="separator" />
         <footer>
-            <p style='font-size: 80%'>
-                You can find me on <a style="color:#FFF7E8" rel="noopener noreferrer" target="_blank"
-                    href='https://github.com/j-malt'>Github</a>, <a style="color:#FFF7E8" rel="noopener noreferrer"
-                    target="_blank" href='https://www.linkedin.com/in/jesse-maltese-50241b195/'>LinkedIn</a>, or <a
+            <p style="font-size: 80%">
+                Find me on <a style="color:#FFF7E8" rel="noopener noreferrer" target="_blank"
+                    href="https://github.com/j-malt">Github</a>, <a style="color:#FFF7E8"
+                    rel="noopener noreferrer" target="_blank"
+                    href="https://www.linkedin.com/in/jesse-maltese-50241b195/">LinkedIn</a>, or <a
                     style="color:#FFF7E8" rel="noopener noreferrer" target="_blank"
-                    href='mailto:jessejmaltese@gmail.com'>Email
-                    Me!</a>
-                <br /> Jesse Maltese - 2023
+                    href="mailto:jessejmaltese@gmail.com">Email Me!</a>
             </p>
         </footer>
         <!-- Needs to go at the bottom so the template can load! -->
         <script type="text/javascript"
             src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js"></script>
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <script type="text/javascript"
             src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js"></script>
         <script type="text/javascript"
             src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
-        <script type="text/javascript" src="./scale chord search/search.js"></script>
+        <script type="text/javascript" src="./scale-chord-search/util.js"></script>
+        <script type="text/javascript" src="./scale-chord-search/search.js"></script>
     </div>
-
 
 </body>
 
