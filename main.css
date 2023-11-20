@@ -139,36 +139,13 @@ img {
 /*  Footer */
 footer {
   opacity: 70%;
+  padding-bottom: 1vh;
 }
 
 /*  Media Queries  */
 @media screen and (max-width: 992px) {
   .content {
-    width: 80vw;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .nav {
-    width: 25vw;
-  }
-}
-
-@media screen and (max-width: 576px) {
-  .nav {
-    width: 30vw;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .nav {
-    width: 35vw;
-  }
-
-  .content {
-    margin: 5px;
-    /* Reduce margin for very small screens */
-    padding: 5px;
-    /* Reduce padding */
+    max-width: 80vw;
+    font-size: 3rem;
   }
 }

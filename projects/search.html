@@ -42,11 +42,15 @@
 
         <form autocomplete="off">
             <div class="select">
-                <input type="radio" class="searchType" id="scales" name="select" value="scales"
-                    checked>
-                <label for="scales">Scales</label>
-                <input type="radio" class="searchType" id="chords" name="select" value="chords">
-                <label for="chords">Chords</label>
+                <div class="radio">
+                    <input type="radio" class="searchType" id="scales" name="select" value="scales"
+                        checked>
+                    <label for="scales">Scales</label>
+                </div>
+                <div class="radio">
+                    <input type="radio" class="searchType" id="chords" name="select" value="chords">
+                    <label for="chords">Chords</label>
+                </div>
             </div>
             <input id="searchText" type="text" placeholder="Search for a scale...">
             <br />
@@ -54,8 +58,8 @@
         <script id="scaleTemplate" type="text/x-handlebars-template">
             {{#each this}}
             <tr>
-                <td><h1>{{name_scale}}</h1></td>
-                <td><h2>{{notes_scale}}</h2></td>
+                <td><h2>{{name_scale}}</h2></td>
+                <td class="scale-notes"><h2>{{notes_scale}}</h2></td>
             </tr>
             {{/each}}
         </script>
@@ -63,7 +67,7 @@
             {{#each this}}
             <tr>
                 <td><h1>{{name_chord}}</h1></td>
-                <td ><h2>{{notes_chord}}</h2></td>
+                <td><h1 style="text-wrap: nowrap;">{{notes_chord}}</h1></td>
             </tr>
             {{/each}}
         </script>
