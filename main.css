@@ -42,6 +42,7 @@ html {
   border: none;
   border-top: 1px solid var(--main-text-color);
   width: 100%;
+
 }
 
 .hr-footer {
@@ -55,6 +56,8 @@ html {
 a {
   color: var(--highlight-text-color);
   display: inline-block;
+  border-bottom: 1px dotted;
+  text-decoration: none;
 }
 
 .img-link {
@@ -98,6 +101,10 @@ img {
   display: flex;
   align-items: end;
   width: 100%;
+
+  a {
+    border-bottom: none !important;
+  }
 }
 
 .no-float-link {
@@ -128,6 +135,7 @@ img {
 .nav-link {
   color: var(--secondary-highlight-text-color);
   text-decoration: none;
+
 }
 
 .active {
