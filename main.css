@@ -104,6 +104,7 @@ img {
 
   a {
     border-bottom: none !important;
+    text-decoration: none;
   }
 }
 
